@@ -1,601 +1,601 @@
 artistID,name,song_title,genre,Stt
-1,Đỗ Phương Phi,Kỷ Niệm Sầu (900),Lo-fi,ID_1
-2,Đỗ Anh Nam,Đường Đau (622),Dance,ID_2
-3,Trần Ngọc Nam,Mưa Vui (145),Rock,ID_3
-4,Phạm Hữu Quân,Mưa Say (356),Jazz,ID_4
-5,Trần Tuấn Linh,Giấc Mơ Thương (254),Jazz,ID_5
-6,Phan Minh Nam,Trăng Buồn (641),R&B,ID_6
-7,Vũ Phương Phúc,Biển Nhớ (943),Pop,ID_7
-8,Hoàng Ngọc Nam,Nắng Đau (338),Pop,ID_8
-9,Trần Phương Cường,Kỷ Niệm Buồn (792),Indie,ID_9
-10,Đặng Văn Tuấn,Nắng Xa (222),R&B,ID_10
-11,Lê Tuấn Phi,Trăng Buồn (908),Indie,ID_11
-12,Hồ Ngọc Linh,Giấc Mơ Mơ (405),Jazz,ID_12
-13,Dương Minh Quân,Lời Yêu Thương (927),Indie,ID_13
-14,Đặng Tuấn Phúc,Biển Thương (907),Ballad,ID_14
-15,Phan Phương Cường,Tình Lạ (108),Bolero,ID_15
-16,Phạm Bảo Cường,Phố Lạ (133),Rock,ID_16
-17,Bùi Đức Quân,Giấc Mơ Vui (790),Lo-fi,ID_17
-18,Vũ Thị Cường,Kỷ Niệm Rơi (663),Dance,ID_18
-19,Bùi Xuân Đông,Mây Lặng (319),Rock,ID_19
-20,Lê Thị Tuấn,Tình Say (267),R&B,ID_20
-21,Bùi Xuân Trang,Đường Thương (172),Dance,ID_21
-22,Trương Ngọc Phi,Nắng Lặng (448),Ballad,ID_22
-23,Đỗ Anh Mai,Biển Lặng (688),Pop,ID_23
-24,Bùi Phương Cường,Lời Yêu Lạ (947),Jazz,ID_24
-25,Lê Minh Phúc,Kỷ Niệm Nhớ (444),Ballad,ID_25
-26,Dương Tuấn Đông,Mưa Say (286),Ballad,ID_26
-27,Vũ Đức Đông,Hoa Say (410),Bolero,ID_27
-28,Lê Phương Tuấn,Phố Lạ (288),Ballad,ID_28
-29,Vũ Bảo Tuấn,Biển Quên (540),Lo-fi,ID_29
-30,Vũ Minh Sơn,Giấc Mơ Lặng (409),Rap,ID_30
-31,Đặng Hữu Hương,Biển Xa (363),Ballad,ID_31
-32,Bùi Hữu Huy,Lời Yêu Lặng (512),Rock,ID_32
-33,Lê Hữu Sơn,Giấc Mơ Vui (875),Jazz,ID_33
-34,Đặng Minh Trang,Trăng Đau (548),R&B,ID_34
-35,Trần Quang Nam,Nắng Vui (159),Jazz,ID_35
-36,Lý Ngọc Sơn,Tình Xa (324),Jazz,ID_36
-37,Dương Anh Hạnh,Giấc Mơ Quên (267),Lo-fi,ID_37
-38,Đỗ Đức Cường,Mây Rơi (426),Dance,ID_38
-39,Trương Ngọc Lan,Gió Xa (563),Ballad,ID_39
-40,Phạm Xuân Trang,Mưa Lạ (722),Bolero,ID_40
-41,Dương Quang Hạnh,Nắng Mơ (716),Ballad,ID_41
-42,Ngô Văn Phi,Giấc Mơ Rơi (275),Bolero,ID_42
-43,Trần Xuân Mai,Đường Mơ (538),Ballad,ID_43
-44,Hồ Hữu Tuấn,Phố Xa (782),Lo-fi,ID_44
-45,Hoàng Minh Hạnh,Mưa Buồn (373),Bolero,ID_45
-46,Trương Ngọc Huy,Hoa Nhớ (305),Rap,ID_46
-47,Trần Minh Sơn,Nắng Quên (219),Dance,ID_47
-48,Ngô Phương Hà,Mưa Sầu (152),Lo-fi,ID_48
-49,Lý Bảo Nam,Trăng Buồn (733),Bolero,ID_49
-50,Lý Văn Huy,Trăng Quên (387),Dance,ID_50
-51,Hồ Đức Sơn,Tình Buồn (487),Jazz,ID_51
-52,Đặng Phương Lan,Biển Xa (564),Jazz,ID_52
-53,Lê Ngọc Huy,Mây Lạ (851),Jazz,ID_53
-54,Lý Quang Cường,Biển Quên (829),Ballad,ID_54
-55,Trương Minh Phi,Trăng Mơ (202),Bolero,ID_55
-56,Trương Bảo Sơn,Hoa Lặng (225),Jazz,ID_56
-57,Trương Đức Sơn,Lời Yêu Lạ (990),Ballad,ID_57
-58,Phạm Minh Huy,Nắng Đau (375),Ballad,ID_58
-59,Lý Xuân Tâm,Trăng Quên (936),Rap,ID_59
-60,Lý Đức Phúc,Mây Đau (335),Dance,ID_60
-61,Vũ Ngọc Phúc,Biển Say (796),Lo-fi,ID_61
-62,Đặng Tuấn Sơn,Phố Say (134),Jazz,ID_62
-63,Vũ Hữu Mai,Trăng Quên (796),Indie,ID_63
-64,Hoàng Văn Hương,Phố Vui (689),Pop,ID_64
-65,Ngô Phương Huy,Giấc Mơ Rơi (675),Bolero,ID_65
-66,Trương Xuân Dũng,Mưa Xa (662),Ballad,ID_66
-67,Lý Bảo Linh,Gió Quên (266),Dance,ID_67
-68,Trần Đức Tuấn,Hoa Sầu (887),Rap,ID_68
-69,Đặng Quang Hạnh,Gió Đau (652),Rock,ID_69
-70,Nguyễn Quang Mai,Biển Mơ (548),Ballad,ID_70
-71,Trần Tuấn Hạnh,Trăng Đau (157),Rock,ID_71
-72,Vũ Tuấn Tâm,Hoa Buồn (999),Lo-fi,ID_72
-73,Phạm Bảo Trang,Đường Say (869),Jazz,ID_73
-74,Phan Tuấn Hương,Tình Quên (279),Rock,ID_74
-75,Phan Văn Quân,Trăng Rơi (671),Bolero,ID_75
-76,Phạm Tuấn Nam,Hoa Sầu (245),Rap,ID_76
-77,Trương Khánh Dũng,Gió Lặng (809),Bolero,ID_77
-78,Ngô Đức Hạnh,Giấc Mơ Quên (554),R&B,ID_78
-79,Dương Đức Dũng,Giấc Mơ Vui (537),R&B,ID_79
-80,Lê Khánh Hạnh,Trăng Rơi (836),Bolero,ID_80
-81,Trương Hữu Lan,Tình Quên (466),Rock,ID_81
-82,Trần Anh Trang,Kỷ Niệm Lặng (261),Jazz,ID_82
-83,Vũ Xuân Hạnh,Hoa Sầu (530),Bolero,ID_83
-84,Ngô Phương Nam,Gió Xa (173),Indie,ID_84
-85,Nguyễn Quang Phúc,Hoa Vui (656),Indie,ID_85
-86,Bùi Hữu Hà,Phố Lạ (496),Dance,ID_86
-87,Dương Quang Mai,Tình Rơi (254),R&B,ID_87
-88,Lê Hữu Phi,Giấc Mơ Rơi (544),Ballad,ID_88
-89,Nguyễn Đức Tuấn,Mây Say (945),Dance,ID_89
-90,Bùi Minh Trang,Hoa Nhớ (911),Rock,ID_90
-91,Ngô Quang Hương,Tình Rơi (375),Ballad,ID_91
-92,Hồ Xuân Hạnh,Hoa Say (223),Bolero,ID_92
-93,Đặng Ngọc Quân,Đường Vui (173),Ballad,ID_93
-94,Vũ Xuân Dũng,Lời Yêu Vui (916),R&B,ID_94
-95,Hoàng Thị Trang,Trăng Nhớ (765),Lo-fi,ID_95
-96,Đỗ Bảo Hà,Mây Rơi (495),Jazz,ID_96
-97,Hoàng Ngọc Lan,Trăng Quên (493),Indie,ID_97
-98,Phạm Ngọc Lan,Mây Thương (240),Jazz,ID_98
-99,Trương Minh Mai,Phố Quên (810),Jazz,ID_99
-100,Lý Khánh Linh,Gió Mơ (201),Rap,ID_100
-101,Vũ Tuấn Dũng,Kỷ Niệm Lặng (597),Indie,ID_101
-102,Nguyễn Đức Trang,Mây Xa (466),R&B,ID_102
-103,Bùi Anh Lan,Nắng Vui (918),Rock,ID_103
-104,Hoàng Xuân Tâm,Nắng Vui (379),Bolero,ID_104
-105,Phạm Anh Phi,Nắng Đau (437),Dance,ID_105
-106,Hoàng Minh Dũng,Kỷ Niệm Buồn (715),Dance,ID_106
-107,Đỗ Phương Quân,Biển Xa (155),Bolero,ID_107
-108,Dương Bảo Hà,Nắng Vui (906),Ballad,ID_108
-109,Bùi Xuân Tâm,Đường Lặng (655),Lo-fi,ID_109
-110,Dương Xuân Cường,Hoa Say (160),R&B,ID_110
-111,Đỗ Xuân Hà,Biển Xa (412),R&B,ID_111
-112,Nguyễn Hữu Đông,Nắng Vui (927),Indie,ID_112
-113,Nguyễn Khánh Hạnh,Gió Sầu (491),Pop,ID_113
-114,Lý Quang Sơn,Tình Xa (289),Jazz,ID_114
-115,Hồ Minh Tuấn,Trăng Thương (297),Jazz,ID_115
-116,Hoàng Quang Huy,Mưa Thương (650),Dance,ID_116
-117,Lý Khánh Hạnh,Tình Xa (979),Jazz,ID_117
-118,Trần Thị Lan,Mưa Say (742),Rap,ID_118
-119,Vũ Khánh Lan,Trăng Lạ (619),R&B,ID_119
-120,Lê Ngọc Hương,Phố Nhớ (801),Rock,ID_120
-121,Đỗ Phương Hạnh,Lời Yêu Mơ (967),Ballad,ID_121
-122,Đỗ Thị Mai,Mưa Sầu (216),Bolero,ID_122
-123,Nguyễn Quang Mai,Mây Lạ (885),Ballad,ID_123
-124,Đỗ Đức Tuấn,Đường Đau (707),R&B,ID_124
-125,Phạm Ngọc Phúc,Hoa Rơi (900),Indie,ID_125
-126,Đặng Tuấn Linh,Mây Lạ (497),R&B,ID_126
-127,Trần Tuấn Hà,Mây Đau (507),Pop,ID_127
-128,Lê Phương Sơn,Giấc Mơ Lạ (118),Rock,ID_128
-129,Đặng Anh Cường,Kỷ Niệm Mơ (369),Jazz,ID_129
-130,Phạm Xuân Huy,Đường Vui (948),Pop,ID_130
-131,Vũ Tuấn Hạnh,Lời Yêu Vui (449),Ballad,ID_131
-132,Đặng Anh Lan,Đường Vui (335),Bolero,ID_132
-133,Dương Tuấn Quân,Nắng Thương (242),Lo-fi,ID_133
-134,Vũ Ngọc Phi,Đường Quên (937),Ballad,ID_134
-135,Lý Tuấn Dũng,Kỷ Niệm Nhớ (870),Indie,ID_135
-136,Dương Phương Trang,Gió Rơi (943),Jazz,ID_136
-137,Đỗ Quang Quân,Nắng Rơi (868),Bolero,ID_137
-138,Lê Tuấn Tâm,Kỷ Niệm Mơ (394),Pop,ID_138
-139,Lý Bảo Hương,Nắng Quên (606),Rock,ID_139
-140,Lê Hữu Phúc,Lời Yêu Quên (921),Lo-fi,ID_140
-141,Bùi Bảo Hà,Phố Quên (597),Jazz,ID_141
-142,Nguyễn Văn Hạnh,Hoa Sầu (307),Dance,ID_142
-143,Nguyễn Thị Đông,Lời Yêu Nhớ (583),R&B,ID_143
-144,Lê Hữu Cường,Giấc Mơ Đau (703),Indie,ID_144
-145,Hồ Hữu Tâm,Đường Nhớ (203),Rock,ID_145
-146,Lý Minh Hà,Lời Yêu Đau (863),Lo-fi,ID_146
-147,Trương Phương Phúc,Giấc Mơ Lạ (357),Bolero,ID_147
-148,Trần Khánh Linh,Gió Thương (334),Ballad,ID_148
-149,Ngô Tuấn Hạnh,Phố Rơi (683),R&B,ID_149
-150,Hoàng Ngọc Dũng,Hoa Lặng (845),Pop,ID_150
-151,Phan Đức Nam,Nắng Thương (861),Jazz,ID_151
-152,Hoàng Tuấn Quân,Mưa Mơ (770),Dance,ID_152
-153,Đỗ Anh Quân,Tình Mơ (750),Ballad,ID_153
-154,Trương Bảo Đông,Mây Sầu (350),R&B,ID_154
-155,Trương Văn Hà,Mây Say (393),R&B,ID_155
-156,Ngô Tuấn Quân,Trăng Thương (606),R&B,ID_156
-157,Đỗ Tuấn Huy,Mưa Buồn (732),Ballad,ID_157
-158,Lê Anh Hạnh,Đường Lặng (993),Indie,ID_158
-159,Nguyễn Tuấn Nam,Tình Đau (940),Pop,ID_159
-160,Nguyễn Đức Trang,Hoa Rơi (938),Lo-fi,ID_160
-161,Nguyễn Phương Lan,Đường Thương (267),Jazz,ID_161
-162,Lý Thị Lan,Giấc Mơ Rơi (158),Jazz,ID_162
-163,Phạm Văn Hà,Gió Rơi (507),Bolero,ID_163
-164,Ngô Bảo Nam,Mưa Rơi (242),Indie,ID_164
-165,Hoàng Minh Quân,Mây Lạ (191),Rock,ID_165
-166,Dương Thị Lan,Hoa Thương (159),Lo-fi,ID_166
-167,Nguyễn Quang Huy,Lời Yêu Say (940),Bolero,ID_167
-168,Trương Đức Dũng,Trăng Sầu (547),Pop,ID_168
-169,Đỗ Xuân Sơn,Mây Mơ (234),Bolero,ID_169
-170,Ngô Văn Lan,Mưa Say (566),Jazz,ID_170
-171,Lê Thị Phi,Mưa Sầu (519),R&B,ID_171
-172,Lý Hữu Nam,Phố Đau (214),Lo-fi,ID_172
-173,Hồ Tuấn Quân,Mưa Nhớ (777),Jazz,ID_173
-174,Ngô Đức Cường,Giấc Mơ Vui (219),Pop,ID_174
-175,Lê Quang Quân,Tình Quên (284),R&B,ID_175
-176,Đỗ Anh Linh,Phố Sầu (860),Bolero,ID_176
-177,Đặng Hữu Hà,Phố Lặng (466),Rock,ID_177
-178,Dương Thị Mai,Nắng Lạ (860),R&B,ID_178
-179,Đỗ Minh Dũng,Phố Đau (327),Lo-fi,ID_179
-180,Trương Văn Trang,Biển Xa (917),R&B,ID_180
-181,Vũ Bảo Phi,Hoa Lặng (586),Lo-fi,ID_181
-182,Trương Bảo Sơn,Đường Đau (747),Dance,ID_182
-183,Ngô Quang Mai,Đường Mơ (961),Rock,ID_183
-184,Hoàng Khánh Đông,Hoa Lạ (318),Bolero,ID_184
-185,Lý Bảo Phúc,Mây Sầu (664),Jazz,ID_185
-186,Hoàng Tuấn Nam,Mây Đau (662),Dance,ID_186
-187,Trần Bảo Phi,Giấc Mơ Sầu (262),Pop,ID_187
-188,Hồ Đức Dũng,Phố Lặng (289),Indie,ID_188
-189,Nguyễn Đức Quân,Nắng Say (990),Lo-fi,ID_189
-190,Vũ Hữu Tâm,Phố Xa (198),Pop,ID_190
-191,Dương Hữu Phúc,Đường Xa (992),Jazz,ID_191
-192,Phan Xuân Phúc,Tình Nhớ (775),Rap,ID_192
-193,Hồ Khánh Tâm,Tình Say (167),Lo-fi,ID_193
-194,Trương Tuấn Trang,Gió Thương (226),Rap,ID_194
-195,Hoàng Ngọc Trang,Hoa Quên (280),Bolero,ID_195
-196,Bùi Hữu Phi,Gió Quên (121),Lo-fi,ID_196
-197,Lý Văn Mai,Tình Lặng (915),Indie,ID_197
-198,Vũ Xuân Linh,Biển Quên (163),R&B,ID_198
-199,Lê Thị Cường,Giấc Mơ Thương (798),Lo-fi,ID_199
-200,Vũ Phương Hà,Hoa Quên (509),Rap,ID_200
-201,Vũ Đức Tâm,Phố Quên (618),R&B,ID_201
-202,Dương Thị Phi,Phố Lặng (194),Jazz,ID_202
-203,Lê Bảo Hạnh,Gió Xa (177),Dance,ID_203
-204,Hoàng Hữu Hương,Tình Xa (630),Pop,ID_204
-205,Vũ Khánh Huy,Lời Yêu Xa (617),Bolero,ID_205
-206,Đỗ Anh Quân,Đường Lạ (277),Rock,ID_206
-207,Phan Đức Cường,Đường Sầu (272),Rap,ID_207
-208,Vũ Văn Mai,Tình Buồn (948),Ballad,ID_208
-209,Đỗ Thị Dũng,Lời Yêu Vui (722),Lo-fi,ID_209
-210,Trương Ngọc Hương,Giấc Mơ Đau (829),Bolero,ID_210
-211,Hoàng Hữu Đông,Đường Rơi (239),R&B,ID_211
-212,Đặng Văn Hạnh,Giấc Mơ Lạ (717),Rap,ID_212
-213,Đỗ Ngọc Huy,Hoa Lặng (594),Bolero,ID_213
-214,Dương Minh Huy,Phố Quên (757),Dance,ID_214
-215,Hồ Văn Phi,Biển Quên (155),Ballad,ID_215
-216,Lê Bảo Mai,Phố Vui (354),Ballad,ID_216
-217,Phan Minh Trang,Kỷ Niệm Quên (867),Indie,ID_217
-218,Lý Văn Nam,Giấc Mơ Buồn (704),Rock,ID_218
-219,Đỗ Thị Trang,Gió Vui (185),Dance,ID_219
-220,Phạm Minh Hương,Trăng Say (945),Rap,ID_220
-221,Lê Anh Linh,Trăng Thương (970),Rock,ID_221
-222,Lê Thị Mai,Biển Lặng (825),Lo-fi,ID_222
-223,Trương Khánh Phi,Mưa Xa (116),Rock,ID_223
-224,Bùi Tuấn Đông,Giấc Mơ Say (785),Jazz,ID_224
-225,Lê Khánh Linh,Phố Sầu (569),Rap,ID_225
-226,Bùi Khánh Sơn,Biển Buồn (835),Jazz,ID_226
-227,Đỗ Anh Huy,Lời Yêu Mơ (971),Rap,ID_227
-228,Đặng Quang Phi,Kỷ Niệm Vui (950),Dance,ID_228
-229,Bùi Khánh Hạnh,Phố Nhớ (898),Lo-fi,ID_229
-230,Phan Anh Dũng,Trăng Buồn (627),Lo-fi,ID_230
-231,Lý Quang Hương,Trăng Lạ (447),Indie,ID_231
-232,Ngô Ngọc Dũng,Mây Lạ (387),Bolero,ID_232
-233,Trương Văn Phi,Gió Đau (567),Indie,ID_233
-234,Ngô Xuân Nam,Nắng Mơ (396),Ballad,ID_234
-235,Trương Anh Lan,Mây Lạ (466),Jazz,ID_235
-236,Trương Văn Hạnh,Giấc Mơ Vui (266),Dance,ID_236
-237,Lê Văn Phúc,Kỷ Niệm Mơ (169),Pop,ID_237
-238,Phan Khánh Hương,Mưa Thương (419),Jazz,ID_238
-239,Lý Hữu Dũng,Giấc Mơ Đau (249),Jazz,ID_239
-240,Lý Văn Phúc,Hoa Lạ (592),Lo-fi,ID_240
-241,Vũ Bảo Tâm,Trăng Nhớ (736),Lo-fi,ID_241
-242,Dương Thị Tuấn,Gió Buồn (849),R&B,ID_242
-243,Phạm Đức Phi,Giấc Mơ Quên (237),Indie,ID_243
-244,Hồ Bảo Trang,Nắng Say (150),Bolero,ID_244
-245,Lý Ngọc Dũng,Trăng Quên (563),Pop,ID_245
-246,Phan Minh Hương,Kỷ Niệm Sầu (334),R&B,ID_246
-247,Trần Hữu Mai,Gió Xa (466),Indie,ID_247
-248,Trương Phương Linh,Đường Nhớ (850),Pop,ID_248
-249,Lý Minh Tuấn,Phố Rơi (948),Rap,ID_249
-250,Nguyễn Bảo Sơn,Phố Nhớ (244),R&B,ID_250
-251,Phạm Thị Hà,Đường Rơi (729),Indie,ID_251
-252,Lê Quang Đông,Lời Yêu Lặng (414),Rock,ID_252
-253,Lê Anh Trang,Mây Mơ (588),Bolero,ID_253
-254,Đỗ Đức Lan,Mưa Sầu (728),Rap,ID_254
-255,Ngô Anh Hạnh,Giấc Mơ Mơ (150),Dance,ID_255
-256,Đỗ Bảo Lan,Giấc Mơ Vui (918),Ballad,ID_256
-257,Hồ Hữu Nam,Phố Rơi (677),Pop,ID_257
-258,Phạm Ngọc Dũng,Mưa Buồn (610),R&B,ID_258
-259,Ngô Thị Hà,Phố Nhớ (801),Indie,ID_259
-260,Lê Văn Lan,Trăng Buồn (181),Rap,ID_260
-261,Lý Minh Phi,Tình Rơi (228),Lo-fi,ID_261
-262,Nguyễn Hữu Mai,Biển Nhớ (839),Dance,ID_262
-263,Lê Quang Phi,Mây Nhớ (978),R&B,ID_263
-264,Đặng Khánh Lan,Nắng Quên (179),Ballad,ID_264
-265,Dương Khánh Huy,Mưa Rơi (439),Lo-fi,ID_265
-266,Lê Văn Tuấn,Mưa Sầu (817),Dance,ID_266
-267,Lê Văn Dũng,Mưa Mơ (919),Ballad,ID_267
-268,Lê Đức Tuấn,Phố Buồn (119),Jazz,ID_268
-269,Bùi Hữu Hạnh,Lời Yêu Vui (690),Indie,ID_269
-270,Lý Xuân Mai,Đường Vui (111),Pop,ID_270
-271,Bùi Quang Dũng,Trăng Sầu (402),Rap,ID_271
-272,Bùi Đức Linh,Mây Lạ (806),Jazz,ID_272
-273,Trần Anh Mai,Biển Lạ (586),Indie,ID_273
-274,Phạm Văn Phúc,Kỷ Niệm Rơi (345),Lo-fi,ID_274
-275,Dương Khánh Cường,Hoa Quên (982),Rap,ID_275
-276,Lý Tuấn Hạnh,Lời Yêu Đau (581),Pop,ID_276
-277,Phạm Ngọc Huy,Tình Đau (918),Rock,ID_277
-278,Hoàng Tuấn Phi,Đường Nhớ (618),Ballad,ID_278
-279,Trần Tuấn Trang,Mây Say (417),Rap,ID_279
-280,Lê Anh Quân,Kỷ Niệm Lạ (777),R&B,ID_280
-281,Bùi Hữu Đông,Trăng Say (982),Lo-fi,ID_281
-282,Lý Đức Sơn,Đường Rơi (492),Jazz,ID_282
-283,Bùi Ngọc Nam,Kỷ Niệm Vui (781),Bolero,ID_283
-284,Đặng Ngọc Quân,Trăng Quên (243),Ballad,ID_284
-285,Lý Thị Lan,Đường Nhớ (792),Pop,ID_285
-286,Phan Thị Dũng,Trăng Lặng (303),Indie,ID_286
-287,Vũ Khánh Trang,Hoa Quên (173),Rap,ID_287
-288,Phạm Minh Sơn,Biển Rơi (930),Rock,ID_288
-289,Phạm Đức Nam,Trăng Vui (792),Indie,ID_289
-290,Đặng Ngọc Lan,Hoa Say (297),Dance,ID_290
-291,Đặng Minh Tuấn,Trăng Quên (382),Bolero,ID_291
-292,Trần Tuấn Hạnh,Phố Quên (742),Rap,ID_292
-293,Dương Anh Tâm,Lời Yêu Đau (101),Pop,ID_293
-294,Hồ Đức Nam,Biển Lạ (986),Dance,ID_294
-295,Ngô Quang Trang,Mây Sầu (831),Rap,ID_295
-296,Bùi Ngọc Quân,Giấc Mơ Sầu (338),Jazz,ID_296
-297,Hồ Quang Sơn,Lời Yêu Đau (705),Ballad,ID_297
-298,Đặng Tuấn Phúc,Gió Mơ (310),Rock,ID_298
-299,Đặng Đức Dũng,Kỷ Niệm Quên (158),Ballad,ID_299
-300,Lê Quang Dũng,Phố Lặng (602),R&B,ID_300
-301,Phan Khánh Quân,Đường Xa (177),Jazz,ID_301
-302,Đặng Ngọc Mai,Gió Buồn (409),Rap,ID_302
-303,Bùi Minh Phúc,Mưa Thương (135),Dance,ID_303
-304,Lý Quang Phúc,Phố Rơi (150),Ballad,ID_304
-305,Trương Ngọc Mai,Gió Lạ (120),Ballad,ID_305
-306,Bùi Hữu Trang,Kỷ Niệm Quên (554),Dance,ID_306
-307,Ngô Tuấn Đông,Giấc Mơ Rơi (587),Dance,ID_307
-308,Dương Bảo Trang,Nắng Mơ (497),Pop,ID_308
-309,Lý Minh Phi,Gió Vui (714),Rap,ID_309
-310,Vũ Văn Phi,Hoa Rơi (710),Jazz,ID_310
-311,Ngô Hữu Sơn,Trăng Sầu (335),R&B,ID_311
-312,Dương Tuấn Cường,Lời Yêu Quên (271),Ballad,ID_312
-313,Hồ Xuân Hà,Tình Say (640),Jazz,ID_313
-314,Vũ Quang Cường,Biển Lạ (417),Dance,ID_314
-315,Lý Minh Lan,Phố Xa (801),Jazz,ID_315
-316,Hồ Phương Tâm,Phố Thương (852),Pop,ID_316
-317,Dương Xuân Quân,Trăng Buồn (247),Bolero,ID_317
-318,Đỗ Ngọc Phi,Biển Xa (256),Dance,ID_318
-319,Nguyễn Bảo Huy,Kỷ Niệm Mơ (855),Indie,ID_319
-320,Phạm Bảo Huy,Nắng Quên (617),Rock,ID_320
-321,Ngô Phương Huy,Kỷ Niệm Vui (418),R&B,ID_321
-322,Phan Thị Mai,Hoa Mơ (789),Rap,ID_322
-323,Vũ Đức Hương,Đường Quên (726),Rock,ID_323
-324,Đỗ Văn Dũng,Giấc Mơ Nhớ (717),Dance,ID_324
-325,Ngô Bảo Linh,Tình Quên (366),Dance,ID_325
-326,Đỗ Tuấn Nam,Giấc Mơ Sầu (964),Jazz,ID_326
-327,Bùi Anh Hà,Trăng Say (966),Rap,ID_327
-328,Lê Khánh Dũng,Mây Lạ (263),Lo-fi,ID_328
-329,Dương Thị Hà,Đường Đau (875),Indie,ID_329
-330,Nguyễn Ngọc Huy,Trăng Buồn (337),Indie,ID_330
-331,Lê Tuấn Dũng,Hoa Nhớ (981),Dance,ID_331
-332,Ngô Bảo Phi,Biển Thương (941),Indie,ID_332
-333,Phan Văn Tâm,Nắng Mơ (502),Dance,ID_333
-334,Ngô Tuấn Trang,Mưa Lặng (979),Rap,ID_334
-335,Phạm Tuấn Đông,Phố Rơi (709),Pop,ID_335
-336,Nguyễn Bảo Tâm,Phố Lạ (193),Bolero,ID_336
-337,Hồ Đức Linh,Biển Vui (122),Dance,ID_337
-338,Phan Anh Hà,Lời Yêu Thương (565),Rap,ID_338
-339,Đặng Anh Phi,Kỷ Niệm Đau (964),Jazz,ID_339
-340,Đỗ Khánh Nam,Lời Yêu Vui (775),Ballad,ID_340
-341,Hoàng Bảo Mai,Gió Buồn (278),Rap,ID_341
-342,Hồ Hữu Trang,Mây Thương (609),Lo-fi,ID_342
-343,Trần Khánh Linh,Gió Lạ (869),Ballad,ID_343
-344,Phạm Khánh Hà,Biển Sầu (914),Dance,ID_344
-345,Dương Khánh Dũng,Kỷ Niệm Xa (678),Dance,ID_345
-346,Bùi Quang Dũng,Giấc Mơ Say (381),Dance,ID_346
-347,Hồ Ngọc Huy,Tình Vui (365),Lo-fi,ID_347
-348,Phan Tuấn Cường,Nắng Đau (640),Rock,ID_348
-349,Hoàng Quang Lan,Phố Vui (922),Rap,ID_349
-350,Đặng Minh Quân,Nắng Rơi (559),Rock,ID_350
-351,Nguyễn Khánh Hương,Nắng Vui (352),Rock,ID_351
-352,Vũ Ngọc Hạnh,Đường Say (239),Bolero,ID_352
-353,Đặng Xuân Huy,Tình Lặng (979),Ballad,ID_353
-354,Đỗ Phương Huy,Nắng Buồn (499),Indie,ID_354
-355,Lý Thị Quân,Đường Sầu (357),Ballad,ID_355
-356,Đỗ Hữu Sơn,Kỷ Niệm Buồn (467),Ballad,ID_356
-357,Phan Quang Huy,Tình Rơi (964),Rock,ID_357
-358,Hồ Phương Hương,Biển Buồn (621),Bolero,ID_358
-359,Lê Phương Đông,Mưa Thương (632),Ballad,ID_359
-360,Bùi Đức Trang,Gió Xa (382),Lo-fi,ID_360
-361,Ngô Tuấn Hương,Tình Nhớ (935),Lo-fi,ID_361
-362,Lý Đức Phi,Mây Nhớ (521),Lo-fi,ID_362
-363,Hoàng Ngọc Quân,Biển Thương (770),Dance,ID_363
-364,Dương Quang Sơn,Hoa Thương (719),Jazz,ID_364
-365,Đặng Thị Huy,Hoa Lạ (281),Lo-fi,ID_365
-366,Dương Anh Phi,Tình Thương (773),Dance,ID_366
-367,Lê Bảo Đông,Phố Sầu (353),Indie,ID_367
-368,Vũ Xuân Phúc,Giấc Mơ Sầu (983),Indie,ID_368
-369,Ngô Ngọc Sơn,Mây Nhớ (225),Jazz,ID_369
-370,Phan Xuân Hạnh,Tình Thương (727),Rap,ID_370
-371,Bùi Hữu Quân,Mưa Mơ (336),Lo-fi,ID_371
-372,Trương Phương Nam,Nắng Rơi (278),Bolero,ID_372
-373,Bùi Văn Mai,Gió Lạ (631),Indie,ID_373
-374,Đặng Bảo Linh,Trăng Vui (650),Rap,ID_374
-375,Vũ Bảo Tuấn,Lời Yêu Lạ (925),Indie,ID_375
-376,Lê Văn Cường,Hoa Lạ (603),Pop,ID_376
-377,Lê Tuấn Quân,Giấc Mơ Xa (661),Rock,ID_377
-378,Trương Văn Linh,Mưa Vui (533),R&B,ID_378
-379,Đặng Phương Dũng,Hoa Xa (457),Pop,ID_379
-380,Lý Minh Quân,Lời Yêu Rơi (934),Lo-fi,ID_380
-381,Bùi Anh Đông,Lời Yêu Xa (925),Pop,ID_381
-382,Bùi Đức Hà,Lời Yêu Quên (437),Dance,ID_382
-383,Ngô Bảo Nam,Đường Sầu (686),Pop,ID_383
-384,Dương Phương Tâm,Trăng Nhớ (741),Ballad,ID_384
-385,Vũ Phương Trang,Phố Lạ (126),Rap,ID_385
-386,Trương Đức Tâm,Hoa Đau (426),R&B,ID_386
-387,Hoàng Khánh Nam,Biển Lạ (387),Ballad,ID_387
-388,Lê Văn Trang,Mưa Buồn (729),Rock,ID_388
-389,Lý Thị Hạnh,Nắng Thương (331),Indie,ID_389
-390,Vũ Hữu Trang,Trăng Rơi (700),Rap,ID_390
-391,Nguyễn Minh Huy,Đường Lặng (534),Jazz,ID_391
-392,Trần Bảo Nam,Nắng Quên (616),Bolero,ID_392
-393,Bùi Văn Tuấn,Hoa Lặng (222),Rap,ID_393
-394,Trần Tuấn Dũng,Hoa Vui (999),Rock,ID_394
-395,Trần Đức Hạnh,Giấc Mơ Nhớ (847),Bolero,ID_395
-396,Phạm Hữu Sơn,Đường Say (178),R&B,ID_396
-397,Trần Bảo Quân,Mây Lạ (364),R&B,ID_397
-398,Vũ Đức Huy,Biển Vui (390),R&B,ID_398
-399,Đặng Xuân Lan,Lời Yêu Mơ (170),Jazz,ID_399
-400,Vũ Thị Phúc,Phố Say (479),R&B,ID_400
-401,Lê Ngọc Dũng,Mưa Mơ (333),Rock,ID_401
-402,Nguyễn Anh Đông,Đường Sầu (773),Jazz,ID_402
-403,Phan Đức Cường,Lời Yêu Buồn (522),Pop,ID_403
-404,Hoàng Minh Hương,Mây Xa (957),Dance,ID_404
-405,Bùi Tuấn Hà,Kỷ Niệm Nhớ (813),R&B,ID_405
-406,Bùi Tuấn Đông,Hoa Thương (454),Indie,ID_406
-407,Ngô Bảo Hà,Mưa Vui (655),R&B,ID_407
-408,Bùi Minh Cường,Phố Nhớ (764),Ballad,ID_408
-409,Vũ Tuấn Huy,Trăng Say (935),Lo-fi,ID_409
-410,Lê Phương Cường,Tình Mơ (882),Dance,ID_410
-411,Trần Minh Tâm,Phố Đau (919),Rock,ID_411
-412,Ngô Anh Hạnh,Mây Mơ (544),Lo-fi,ID_412
-413,Phạm Bảo Tâm,Mưa Lặng (705),Indie,ID_413
-414,Trần Bảo Phúc,Phố Thương (144),Lo-fi,ID_414
-415,Nguyễn Tuấn Đông,Kỷ Niệm Mơ (194),Bolero,ID_415
-416,Vũ Đức Quân,Phố Buồn (553),R&B,ID_416
-417,Vũ Đức Huy,Đường Quên (900),Rock,ID_417
-418,Phan Khánh Lan,Mây Rơi (286),Bolero,ID_418
-419,Nguyễn Bảo Cường,Trăng Quên (827),Dance,ID_419
-420,Lý Văn Hương,Phố Mơ (534),Indie,ID_420
-421,Hoàng Ngọc Tuấn,Lời Yêu Lạ (415),Ballad,ID_421
-422,Bùi Phương Quân,Trăng Vui (159),Lo-fi,ID_422
-423,Phan Khánh Mai,Biển Buồn (621),Indie,ID_423
-424,Phạm Đức Phúc,Giấc Mơ Lạ (330),Jazz,ID_424
-425,Phan Hữu Linh,Hoa Sầu (957),Indie,ID_425
-426,Phạm Minh Trang,Đường Sầu (695),Bolero,ID_426
-427,Hoàng Ngọc Quân,Mây Sầu (371),Dance,ID_427
-428,Phan Khánh Sơn,Nắng Mơ (951),Ballad,ID_428
-429,Đỗ Đức Hà,Trăng Vui (217),Indie,ID_429
-430,Hoàng Ngọc Linh,Trăng Mơ (403),Ballad,ID_430
-431,Lê Khánh Lan,Đường Lạ (151),Ballad,ID_431
-432,Vũ Quang Linh,Lời Yêu Buồn (921),Ballad,ID_432
-433,Vũ Tuấn Sơn,Trăng Buồn (966),Rock,ID_433
-434,Dương Khánh Mai,Biển Lặng (273),Rap,ID_434
-435,Bùi Đức Hạnh,Kỷ Niệm Buồn (834),Bolero,ID_435
-436,Phạm Hữu Trang,Kỷ Niệm Xa (717),Dance,ID_436
-437,Trương Quang Dũng,Mây Rơi (423),Dance,ID_437
-438,Ngô Ngọc Hạnh,Mưa Đau (758),Jazz,ID_438
-439,Đỗ Ngọc Phúc,Nắng Xa (502),R&B,ID_439
-440,Bùi Tuấn Lan,Giấc Mơ Lặng (863),R&B,ID_440
-441,Lý Khánh Hà,Gió Nhớ (517),Dance,ID_441
-442,Trương Đức Lan,Phố Xa (102),R&B,ID_442
-443,Phạm Đức Trang,Biển Thương (559),Rap,ID_443
-444,Ngô Quang Hạnh,Biển Quên (986),Pop,ID_444
-445,Hồ Anh Quân,Mây Nhớ (157),Bolero,ID_445
-446,Ngô Bảo Nam,Hoa Buồn (224),Jazz,ID_446
-447,Hồ Bảo Linh,Giấc Mơ Mơ (902),Indie,ID_447
-448,Lê Ngọc Trang,Gió Rơi (804),R&B,ID_448
-449,Dương Tuấn Phi,Kỷ Niệm Say (907),Indie,ID_449
-450,Vũ Ngọc Lan,Hoa Lặng (629),Rock,ID_450
-451,Vũ Hữu Tuấn,Giấc Mơ Đau (856),Indie,ID_451
-452,Hồ Đức Dũng,Đường Xa (944),Jazz,ID_452
-453,Phạm Ngọc Mai,Mây Đau (842),Rock,ID_453
-454,Lý Tuấn Tâm,Mưa Nhớ (286),Bolero,ID_454
-455,Ngô Phương Phi,Biển Nhớ (553),Jazz,ID_455
-456,Hoàng Phương Mai,Nắng Vui (614),Jazz,ID_456
-457,Đặng Quang Lan,Nắng Vui (939),Indie,ID_457
-458,Ngô Tuấn Hạnh,Kỷ Niệm Xa (292),Rock,ID_458
-459,Lê Đức Dũng,Tình Say (812),Dance,ID_459
-460,Trương Phương Dũng,Đường Lạ (186),Jazz,ID_460
-461,Bùi Xuân Tâm,Mây Buồn (696),Rock,ID_461
-462,Trương Bảo Nam,Đường Nhớ (663),Rap,ID_462
-463,Trần Thị Phi,Giấc Mơ Sầu (185),Dance,ID_463
-464,Lý Thị Linh,Giấc Mơ Mơ (162),Pop,ID_464
-465,Phan Phương Cường,Biển Say (502),R&B,ID_465
-466,Vũ Xuân Đông,Đường Vui (107),Bolero,ID_466
-467,Dương Hữu Linh,Phố Quên (206),R&B,ID_467
-468,Phan Anh Sơn,Gió Đau (123),R&B,ID_468
-469,Đỗ Bảo Linh,Tình Rơi (682),R&B,ID_469
-470,Lý Ngọc Phi,Trăng Lặng (662),Bolero,ID_470
-471,Trần Quang Cường,Đường Sầu (675),Rock,ID_471
-472,Phan Xuân Phúc,Mây Mơ (538),Bolero,ID_472
-473,Nguyễn Anh Linh,Mây Sầu (689),Ballad,ID_473
-474,Phan Hữu Đông,Kỷ Niệm Rơi (585),Lo-fi,ID_474
-475,Đỗ Xuân Đông,Giấc Mơ Buồn (646),Rock,ID_475
-476,Vũ Quang Hương,Kỷ Niệm Say (176),Lo-fi,ID_476
-477,Phan Ngọc Đông,Trăng Say (480),Pop,ID_477
-478,Lê Bảo Huy,Giấc Mơ Rơi (427),Indie,ID_478
-479,Đặng Quang Phi,Phố Xa (824),Bolero,ID_479
-480,Phan Thị Đông,Mưa Xa (743),Pop,ID_480
-481,Ngô Văn Dũng,Trăng Lạ (978),Jazz,ID_481
-482,Lý Phương Phúc,Gió Mơ (183),Bolero,ID_482
-483,Trần Ngọc Huy,Lời Yêu Đau (573),R&B,ID_483
-484,Vũ Ngọc Nam,Biển Đau (378),Indie,ID_484
-485,Phạm Đức Đông,Giấc Mơ Thương (173),Jazz,ID_485
-486,Phan Tuấn Sơn,Biển Lạ (894),Jazz,ID_486
-487,Hoàng Khánh Trang,Nắng Lặng (997),R&B,ID_487
-488,Dương Ngọc Phi,Tình Sầu (637),Rap,ID_488
-489,Trương Minh Sơn,Đường Đau (359),Lo-fi,ID_489
-490,Vũ Thị Cường,Kỷ Niệm Lặng (815),Rap,ID_490
-491,Phạm Tuấn Quân,Giấc Mơ Xa (105),Ballad,ID_491
-492,Hoàng Khánh Quân,Lời Yêu Quên (263),Rap,ID_492
-493,Vũ Phương Hà,Kỷ Niệm Lạ (954),Indie,ID_493
-494,Đỗ Tuấn Trang,Phố Nhớ (976),Rock,ID_494
-495,Nguyễn Phương Quân,Biển Sầu (706),Dance,ID_495
-496,Bùi Ngọc Lan,Trăng Buồn (379),Ballad,ID_496
-497,Lê Thị Lan,Mưa Buồn (320),Rock,ID_497
-498,Đỗ Thị Hạnh,Trăng Mơ (374),Rap,ID_498
-499,Trần Xuân Đông,Kỷ Niệm Buồn (336),Rap,ID_499
-500,Bùi Bảo Tuấn,Phố Lặng (224),Jazz,ID_500
-501,Bùi Phương Tâm,Kỷ Niệm Nhớ (720),Ballad,ID_501
-502,Phạm Khánh Trang,Trăng Quên (914),Indie,ID_502
-503,Hồ Đức Hương,Đường Đau (197),Rap,ID_503
-504,Lê Khánh Lan,Lời Yêu Say (985),Dance,ID_504
-505,Đặng Thị Phi,Tình Lạ (912),Lo-fi,ID_505
-506,Phạm Khánh Sơn,Gió Xa (600),Bolero,ID_506
-507,Hoàng Thị Lan,Lời Yêu Xa (916),Dance,ID_507
-508,Dương Phương Đông,Kỷ Niệm Đau (193),Rock,ID_508
-509,Vũ Xuân Linh,Hoa Quên (865),Lo-fi,ID_509
-510,Phan Khánh Linh,Mây Vui (972),Rap,ID_510
-511,Đặng Quang Phúc,Đường Rơi (911),Lo-fi,ID_511
-512,Trương Bảo Đông,Biển Đau (166),Lo-fi,ID_512
-513,Phan Minh Sơn,Hoa Mơ (915),Rap,ID_513
-514,Bùi Xuân Dũng,Mây Lặng (476),R&B,ID_514
-515,Đỗ Ngọc Trang,Gió Vui (239),Lo-fi,ID_515
-516,Bùi Anh Linh,Hoa Mơ (735),Pop,ID_516
-517,Dương Quang Phúc,Tình Buồn (428),Bolero,ID_517
-518,Trần Xuân Phúc,Phố Sầu (350),Lo-fi,ID_518
-519,Bùi Tuấn Lan,Mưa Mơ (435),Pop,ID_519
-520,Bùi Ngọc Trang,Trăng Thương (499),Rock,ID_520
-521,Trần Phương Dũng,Hoa Lặng (431),R&B,ID_521
-522,Hoàng Anh Tâm,Hoa Buồn (310),Jazz,ID_522
-523,Ngô Hữu Quân,Giấc Mơ Quên (477),R&B,ID_523
-524,Phan Quang Phi,Đường Buồn (560),Ballad,ID_524
-525,Phan Văn Sơn,Gió Xa (402),Bolero,ID_525
-526,Đỗ Minh Phi,Kỷ Niệm Say (619),Jazz,ID_526
-527,Hồ Phương Sơn,Mưa Quên (283),Rock,ID_527
-528,Đỗ Tuấn Hương,Đường Mơ (956),Lo-fi,ID_528
-529,Hoàng Tuấn Quân,Trăng Nhớ (540),Indie,ID_529
-530,Trần Minh Đông,Lời Yêu Lặng (672),R&B,ID_530
-531,Trần Anh Quân,Tình Thương (336),Jazz,ID_531
-532,Trương Hữu Tuấn,Hoa Lặng (147),Rap,ID_532
-533,Nguyễn Ngọc Hạnh,Đường Mơ (799),Rap,ID_533
-534,Bùi Phương Nam,Gió Nhớ (464),Lo-fi,ID_534
-535,Phạm Thị Dũng,Nắng Lạ (827),Bolero,ID_535
-536,Vũ Văn Mai,Đường Say (798),Indie,ID_536
-537,Phan Bảo Lan,Nắng Vui (492),Rock,ID_537
-538,Trương Văn Lan,Phố Mơ (671),Dance,ID_538
-539,Ngô Minh Trang,Trăng Mơ (706),R&B,ID_539
-540,Đỗ Anh Mai,Hoa Vui (920),Ballad,ID_540
-541,Vũ Tuấn Phúc,Giấc Mơ Xa (143),Indie,ID_541
-542,Dương Khánh Linh,Tình Lạ (778),Lo-fi,ID_542
-543,Ngô Bảo Phúc,Gió Thương (451),R&B,ID_543
-544,Hồ Xuân Dũng,Gió Đau (238),Jazz,ID_544
-545,Hồ Xuân Tâm,Gió Buồn (598),Bolero,ID_545
-546,Ngô Ngọc Tuấn,Hoa Say (283),Bolero,ID_546
-547,Trương Khánh Hương,Biển Lặng (663),Bolero,ID_547
-548,Đỗ Đức Quân,Lời Yêu Nhớ (905),Rock,ID_548
-549,Bùi Ngọc Linh,Đường Sầu (570),Bolero,ID_549
-550,Dương Đức Huy,Mây Buồn (493),Indie,ID_550
-551,Đặng Hữu Lan,Phố Lạ (677),Jazz,ID_551
-552,Phan Thị Cường,Tình Buồn (892),Ballad,ID_552
-553,Bùi Xuân Phúc,Trăng Sầu (244),Rap,ID_553
-554,Lý Văn Hạnh,Biển Xa (678),Lo-fi,ID_554
-555,Dương Văn Linh,Tình Say (424),Indie,ID_555
-556,Ngô Minh Đông,Kỷ Niệm Sầu (625),R&B,ID_556
-557,Đặng Bảo Nam,Hoa Sầu (139),Lo-fi,ID_557
-558,Đỗ Phương Huy,Phố Mơ (405),Ballad,ID_558
-559,Hồ Xuân Hà,Tình Nhớ (177),Indie,ID_559
-560,Trương Minh Linh,Gió Thương (230),Dance,ID_560
-561,Phan Bảo Hà,Mưa Vui (249),Dance,ID_561
-562,Phan Xuân Quân,Tình Đau (303),R&B,ID_562
-563,Phạm Thị Huy,Gió Say (440),Pop,ID_563
-564,Đỗ Đức Phúc,Trăng Lặng (542),Rock,ID_564
-565,Trương Quang Phi,Biển Thương (108),Pop,ID_565
-566,Phan Anh Mai,Hoa Rơi (811),Dance,ID_566
-567,Trương Thị Huy,Gió Xa (563),Rock,ID_567
-568,Dương Quang Hà,Biển Xa (635),Lo-fi,ID_568
-569,Phạm Quang Quân,Nắng Quên (457),R&B,ID_569
-570,Vũ Văn Mai,Lời Yêu Nhớ (149),Jazz,ID_570
-571,Lê Anh Trang,Đường Đau (833),Rock,ID_571
-572,Lý Văn Hà,Trăng Lạ (954),Pop,ID_572
-573,Trương Ngọc Hương,Giấc Mơ Đau (581),Dance,ID_573
-574,Vũ Hữu Tuấn,Giấc Mơ Say (834),Pop,ID_574
-575,Phan Hữu Hương,Hoa Quên (387),Pop,ID_575
-576,Hoàng Tuấn Phi,Giấc Mơ Đau (919),Lo-fi,ID_576
-577,Phan Xuân Trang,Lời Yêu Xa (820),Pop,ID_577
-578,Ngô Minh Lan,Mây Mơ (800),Dance,ID_578
-579,Phan Minh Phúc,Mây Mơ (472),Rock,ID_579
-580,Hồ Tuấn Tâm,Phố Buồn (113),Rock,ID_580
-581,Phan Thị Nam,Tình Lạ (445),Rap,ID_581
-582,Hồ Khánh Dũng,Đường Nhớ (681),Jazz,ID_582
-583,Hồ Phương Dũng,Lời Yêu Mơ (728),Lo-fi,ID_583
-584,Hoàng Tuấn Phúc,Biển Say (328),Bolero,ID_584
-585,Bùi Văn Dũng,Đường Quên (245),R&B,ID_585
-586,Đỗ Thị Cường,Biển Mơ (515),Rap,ID_586
-587,Phạm Thị Đông,Giấc Mơ Say (381),Lo-fi,ID_587
-588,Phan Quang Đông,Giấc Mơ Quên (820),Ballad,ID_588
-589,Trương Anh Huy,Nắng Thương (221),Bolero,ID_589
-590,Đỗ Văn Sơn,Giấc Mơ Mơ (266),Jazz,ID_590
-591,Đỗ Ngọc Phi,Trăng Sầu (696),Pop,ID_591
-592,Vũ Văn Quân,Hoa Vui (203),Bolero,ID_592
-593,Hồ Minh Quân,Tình Nhớ (334),Rock,ID_593
-594,Ngô Tuấn Phi,Mây Say (188),Ballad,ID_594
-595,Phạm Quang Nam,Kỷ Niệm Thương (985),Rock,ID_595
-596,Hoàng Đức Cường,Đường Vui (946),Dance,ID_596
-597,Lê Khánh Huy,Mưa Lặng (389),Jazz,ID_597
-598,Lê Bảo Mai,Tình Lặng (635),Indie,ID_598
-599,Nguyễn Văn Phi,Mây Thương (525),Rock,ID_599
-600,Lý Tuấn Phúc,Đường Lặng (745),Indie,ID_600
+1,Phạm Thị Phúc,Trăng Nhớ (249),Rap,ID_1
+2,Hồ Văn Dũng,Kỷ Niệm Đau (328),Jazz,ID_2
+3,Đặng Khánh Phi,Phố Đau (553),Dance,ID_3
+4,Đặng Đức Sơn,Gió Mơ (456),Jazz,ID_4
+5,Lê Hữu Dũng,Lời Yêu Nhớ (621),Ballad,ID_5
+6,Trần Tuấn Sơn,Kỷ Niệm Xa (166),Jazz,ID_6
+7,Trương Phương Hương,Biển Sầu (813),Pop,ID_7
+8,Bùi Đức Quân,Kỷ Niệm Buồn (921),Dance,ID_8
+9,Trần Đức Linh,Tình Sầu (497),Rock,ID_9
+10,Đỗ Anh Phi,Kỷ Niệm Vui (195),Indie,ID_10
+11,Ngô Tuấn Dũng,Trăng Vui (367),Lo-fi,ID_11
+12,Hồ Ngọc Linh,Giấc Mơ Đau (638),R&B,ID_12
+13,Trương Bảo Dũng,Đường Nhớ (852),Dance,ID_13
+14,Đặng Quang Quân,Mây Đau (444),Lo-fi,ID_14
+15,Vũ Quang Phi,Nắng Lặng (416),Dance,ID_15
+16,Đỗ Anh Lan,Giấc Mơ Rơi (861),Jazz,ID_16
+17,Hoàng Tuấn Linh,Kỷ Niệm Sầu (499),Indie,ID_17
+18,Hồ Quang Nam,Đường Say (451),Jazz,ID_18
+19,Đặng Phương Phi,Mây Sầu (660),Ballad,ID_19
+20,Trần Hữu Lan,Trăng Rơi (499),R&B,ID_20
+21,Ngô Văn Lan,Biển Nhớ (516),Ballad,ID_21
+22,Lê Thị Linh,Nắng Nhớ (102),Rock,ID_22
+23,Vũ Quang Tuấn,Đường Mơ (934),Rock,ID_23
+24,Phạm Hữu Phúc,Trăng Quên (197),R&B,ID_24
+25,Bùi Khánh Quân,Lời Yêu Mơ (324),Rock,ID_25
+26,Trương Quang Hạnh,Gió Lặng (259),Rock,ID_26
+27,Trương Thị Dũng,Nắng Say (728),Ballad,ID_27
+28,Ngô Phương Tâm,Gió Say (645),Rap,ID_28
+29,Phan Thị Dũng,Mưa Xa (945),Lo-fi,ID_29
+30,Đỗ Minh Lan,Giấc Mơ Quên (834),Jazz,ID_30
+31,Đặng Phương Lan,Tình Buồn (728),Jazz,ID_31
+32,Trần Quang Nam,Trăng Buồn (834),Indie,ID_32
+33,Trương Hữu Lan,Giấc Mơ Mơ (353),Jazz,ID_33
+34,Phan Bảo Hạnh,Tình Nhớ (697),Indie,ID_34
+35,Nguyễn Hữu Tuấn,Tình Mơ (180),Jazz,ID_35
+36,Nguyễn Anh Đông,Tình Quên (170),Rock,ID_36
+37,Vũ Xuân Cường,Tình Lạ (821),Indie,ID_37
+38,Lê Khánh Nam,Đường Nhớ (246),Bolero,ID_38
+39,Bùi Hữu Nam,Mưa Mơ (274),Rock,ID_39
+40,Lý Xuân Quân,Đường Xa (573),Bolero,ID_40
+41,Trương Đức Tâm,Mưa Say (606),Rock,ID_41
+42,Trần Xuân Linh,Trăng Sầu (782),Rock,ID_42
+43,Nguyễn Hữu Tâm,Hoa Say (362),Rock,ID_43
+44,Bùi Thị Tuấn,Đường Quên (809),Rock,ID_44
+45,Phạm Tuấn Dũng,Tình Lạ (460),Ballad,ID_45
+46,Vũ Anh Trang,Đường Nhớ (444),Lo-fi,ID_46
+47,Ngô Văn Huy,Lời Yêu Đau (575),Ballad,ID_47
+48,Ngô Bảo Quân,Mây Buồn (719),Lo-fi,ID_48
+49,Trương Hữu Hạnh,Đường Mơ (676),Ballad,ID_49
+50,Dương Khánh Linh,Kỷ Niệm Lạ (254),Bolero,ID_50
+51,Hồ Đức Phúc,Đường Đau (777),Bolero,ID_51
+52,Lê Tuấn Phi,Phố Vui (426),Indie,ID_52
+53,Lý Xuân Mai,Giấc Mơ Xa (144),Jazz,ID_53
+54,Nguyễn Văn Quân,Nắng Xa (645),Dance,ID_54
+55,Đỗ Xuân Hạnh,Mây Rơi (687),Jazz,ID_55
+56,Đỗ Khánh Huy,Đường Sầu (242),Dance,ID_56
+57,Đỗ Đức Nam,Tình Nhớ (882),Dance,ID_57
+58,Lý Anh Hạnh,Gió Vui (113),Indie,ID_58
+59,Vũ Khánh Dũng,Gió Lặng (513),Dance,ID_59
+60,Phan Xuân Mai,Trăng Vui (189),Jazz,ID_60
+61,Trần Quang Hương,Tình Say (267),Jazz,ID_61
+62,Lý Khánh Linh,Hoa Mơ (116),Rap,ID_62
+63,Phan Xuân Đông,Biển Xa (103),Bolero,ID_63
+64,Nguyễn Tuấn Mai,Đường Lặng (142),Ballad,ID_64
+65,Lê Thị Hương,Gió Rơi (743),Dance,ID_65
+66,Dương Anh Tuấn,Đường Nhớ (420),Lo-fi,ID_66
+67,Hồ Minh Hạnh,Đường Lặng (315),Jazz,ID_67
+68,Hồ Minh Hương,Giấc Mơ Quên (719),R&B,ID_68
+69,Lý Khánh Nam,Mưa Rơi (840),Rap,ID_69
+70,Vũ Thị Lan,Nắng Mơ (282),R&B,ID_70
+71,Hồ Phương Cường,Đường Lạ (277),Rock,ID_71
+72,Ngô Văn Tuấn,Nắng Say (830),Dance,ID_72
+73,Dương Phương Nam,Mây Xa (691),Dance,ID_73
+74,Hoàng Đức Mai,Hoa Xa (533),Lo-fi,ID_74
+75,Bùi Khánh Phúc,Kỷ Niệm Lạ (521),R&B,ID_75
+76,Dương Anh Quân,Biển Thương (105),Bolero,ID_76
+77,Dương Khánh Nam,Biển Xa (832),Bolero,ID_77
+78,Vũ Anh Phúc,Kỷ Niệm Đau (733),Ballad,ID_78
+79,Nguyễn Thị Đông,Nắng Mơ (921),Ballad,ID_79
+80,Vũ Phương Tuấn,Tình Xa (343),Ballad,ID_80
+81,Đỗ Khánh Trang,Lời Yêu Nhớ (265),Dance,ID_81
+82,Trương Minh Mai,Trăng Thương (764),R&B,ID_82
+83,Vũ Khánh Linh,Mưa Say (603),Lo-fi,ID_83
+84,Nguyễn Ngọc Dũng,Phố Nhớ (221),Lo-fi,ID_84
+85,Lý Hữu Mai,Đường Rơi (355),Rap,ID_85
+86,Phạm Hữu Đông,Kỷ Niệm Say (375),Dance,ID_86
+87,Phan Khánh Tuấn,Gió Quên (938),Bolero,ID_87
+88,Vũ Khánh Hà,Mây Lặng (772),Lo-fi,ID_88
+89,Vũ Khánh Huy,Lời Yêu Xa (446),Ballad,ID_89
+90,Đặng Khánh Lan,Mưa Thương (735),Ballad,ID_90
+91,Phan Khánh Mai,Phố Vui (733),Jazz,ID_91
+92,Ngô Phương Hạnh,Gió Buồn (377),R&B,ID_92
+93,Vũ Hữu Tuấn,Biển Đau (995),Lo-fi,ID_93
+94,Hồ Anh Lan,Giấc Mơ Nhớ (722),Dance,ID_94
+95,Bùi Ngọc Đông,Đường Thương (773),R&B,ID_95
+96,Lê Bảo Lan,Giấc Mơ Đau (361),Jazz,ID_96
+97,Vũ Tuấn Phúc,Giấc Mơ Quên (564),Indie,ID_97
+98,Dương Đức Lan,Hoa Thương (983),Bolero,ID_98
+99,Đặng Bảo Mai,Phố Sầu (906),Dance,ID_99
+100,Lý Đức Hà,Lời Yêu Mơ (401),Pop,ID_100
+101,Trương Khánh Quân,Mưa Rơi (115),Bolero,ID_101
+102,Phạm Quang Đông,Nắng Đau (829),Indie,ID_102
+103,Lý Anh Mai,Giấc Mơ Say (694),Lo-fi,ID_103
+104,Lý Văn Nam,Biển Thương (816),Dance,ID_104
+105,Đặng Minh Sơn,Hoa Đau (107),Indie,ID_105
+106,Đỗ Ngọc Đông,Phố Đau (665),Dance,ID_106
+107,Đặng Ngọc Hương,Tình Mơ (497),Indie,ID_107
+108,Phạm Phương Phi,Phố Rơi (749),Jazz,ID_108
+109,Phan Thị Sơn,Hoa Thương (239),Indie,ID_109
+110,Nguyễn Hữu Dũng,Tình Sầu (981),Lo-fi,ID_110
+111,Lý Xuân Nam,Trăng Sầu (161),Bolero,ID_111
+112,Trần Phương Lan,Biển Nhớ (909),R&B,ID_112
+113,Ngô Bảo Dũng,Mưa Vui (614),Jazz,ID_113
+114,Dương Phương Đông,Gió Xa (405),Pop,ID_114
+115,Phạm Thị Huy,Kỷ Niệm Sầu (900),R&B,ID_115
+116,Hồ Bảo Dũng,Tình Nhớ (369),Dance,ID_116
+117,Trần Ngọc Sơn,Mưa Say (817),Rap,ID_117
+118,Đỗ Văn Sơn,Lời Yêu Lặng (606),Rock,ID_118
+119,Trần Đức Nam,Nắng Quên (151),Rock,ID_119
+120,Nguyễn Phương Lan,Lời Yêu Rơi (116),Bolero,ID_120
+121,Dương Khánh Lan,Lời Yêu Nhớ (979),Dance,ID_121
+122,Phạm Xuân Phúc,Phố Lạ (877),Rap,ID_122
+123,Hồ Bảo Mai,Nắng Mơ (828),Jazz,ID_123
+124,Phan Quang Cường,Phố Buồn (275),Dance,ID_124
+125,Phạm Quang Hà,Hoa Quên (574),Lo-fi,ID_125
+126,Nguyễn Phương Dũng,Lời Yêu Mơ (229),R&B,ID_126
+127,Phạm Quang Hạnh,Kỷ Niệm Buồn (893),Ballad,ID_127
+128,Trương Khánh Tâm,Biển Mơ (489),Rap,ID_128
+129,Đặng Văn Quân,Nắng Sầu (595),Rock,ID_129
+130,Hồ Văn Phi,Biển Xa (532),Jazz,ID_130
+131,Nguyễn Thị Sơn,Mây Lặng (987),Lo-fi,ID_131
+132,Trương Hữu Lan,Biển Mơ (609),Bolero,ID_132
+133,Hoàng Thị Hương,Hoa Sầu (919),Indie,ID_133
+134,Phan Quang Nam,Giấc Mơ Lặng (476),Pop,ID_134
+135,Hồ Minh Hạnh,Kỷ Niệm Sầu (461),Rap,ID_135
+136,Bùi Phương Quân,Hoa Quên (173),Jazz,ID_136
+137,Dương Văn Phi,Biển Buồn (674),Indie,ID_137
+138,Nguyễn Thị Hạnh,Biển Vui (416),Dance,ID_138
+139,Ngô Thị Dũng,Kỷ Niệm Đau (526),Lo-fi,ID_139
+140,Vũ Xuân Hà,Biển Xa (134),Dance,ID_140
+141,Vũ Xuân Dũng,Nắng Sầu (850),Pop,ID_141
+142,Phạm Bảo Lan,Trăng Say (392),Rap,ID_142
+143,Trần Khánh Phi,Hoa Thương (834),Jazz,ID_143
+144,Trương Phương Tuấn,Biển Nhớ (366),Lo-fi,ID_144
+145,Phạm Xuân Dũng,Mây Mơ (536),Rock,ID_145
+146,Hoàng Minh Lan,Đường Thương (738),Rock,ID_146
+147,Hồ Quang Đông,Trăng Đau (246),Dance,ID_147
+148,Đỗ Đức Phi,Mưa Nhớ (485),Indie,ID_148
+149,Vũ Đức Tâm,Tình Quên (692),Lo-fi,ID_149
+150,Ngô Văn Quân,Mưa Sầu (289),Lo-fi,ID_150
+151,Nguyễn Khánh Tuấn,Nắng Lạ (398),Lo-fi,ID_151
+152,Nguyễn Minh Phúc,Tình Xa (779),R&B,ID_152
+153,Nguyễn Minh Linh,Mưa Buồn (643),Bolero,ID_153
+154,Lý Khánh Hà,Gió Mơ (143),Bolero,ID_154
+155,Đặng Ngọc Tuấn,Giấc Mơ Mơ (674),Rock,ID_155
+156,Dương Tuấn Dũng,Trăng Đau (398),Rock,ID_156
+157,Ngô Anh Quân,Lời Yêu Xa (924),R&B,ID_157
+158,Phạm Minh Tuấn,Tình Mơ (217),Pop,ID_158
+159,Đặng Minh Tuấn,Mây Đau (113),Jazz,ID_159
+160,Vũ Hữu Linh,Gió Quên (341),Jazz,ID_160
+161,Đỗ Tuấn Nam,Mây Buồn (623),Bolero,ID_161
+162,Vũ Minh Tâm,Tình Lặng (830),Rock,ID_162
+163,Hoàng Thị Mai,Trăng Buồn (838),Pop,ID_163
+164,Dương Đức Trang,Trăng Sầu (698),Rap,ID_164
+165,Phan Thị Dũng,Đường Rơi (338),Jazz,ID_165
+166,Đặng Ngọc Huy,Gió Thương (253),Indie,ID_166
+167,Dương Văn Trang,Nắng Thương (176),Ballad,ID_167
+168,Phạm Bảo Quân,Gió Mơ (678),Bolero,ID_168
+169,Lê Quang Hạnh,Hoa Buồn (941),Bolero,ID_169
+170,Trần Xuân Quân,Hoa Buồn (738),Rock,ID_170
+171,Lê Anh Quân,Mưa Rơi (893),Indie,ID_171
+172,Đỗ Văn Hạnh,Gió Lặng (494),Dance,ID_172
+173,Ngô Phương Mai,Lời Yêu Lạ (185),Indie,ID_173
+174,Trương Quang Linh,Gió Lặng (906),Bolero,ID_174
+175,Bùi Minh Hương,Trăng Xa (429),Jazz,ID_175
+176,Bùi Phương Hạnh,Kỷ Niệm Sầu (400),Rock,ID_176
+177,Bùi Phương Mai,Giấc Mơ Lạ (592),Jazz,ID_177
+178,Bùi Thị Huy,Kỷ Niệm Quên (692),R&B,ID_178
+179,Hồ Thị Trang,Hoa Lạ (733),R&B,ID_179
+180,Trương Phương Tâm,Trăng Buồn (355),R&B,ID_180
+181,Đỗ Khánh Quân,Mưa Quên (385),Lo-fi,ID_181
+182,Vũ Anh Huy,Nắng Lạ (980),Jazz,ID_182
+183,Lý Ngọc Phi,Phố Sầu (142),Indie,ID_183
+184,Vũ Minh Tâm,Gió Quên (386),Lo-fi,ID_184
+185,Phan Anh Nam,Lời Yêu Quên (901),R&B,ID_185
+186,Dương Tuấn Phúc,Biển Rơi (972),Dance,ID_186
+187,Lê Hữu Phúc,Gió Vui (469),Lo-fi,ID_187
+188,Hoàng Văn Mai,Đường Rơi (133),Jazz,ID_188
+189,Lý Văn Huy,Nắng Nhớ (316),Bolero,ID_189
+190,Trần Minh Hương,Đường Say (367),Lo-fi,ID_190
+191,Lê Văn Phi,Mưa Vui (129),Jazz,ID_191
+192,Phạm Ngọc Sơn,Lời Yêu Xa (738),Rap,ID_192
+193,Vũ Phương Hạnh,Hoa Buồn (275),Lo-fi,ID_193
+194,Hồ Ngọc Phúc,Tình Mơ (405),Dance,ID_194
+195,Đặng Quang Quân,Trăng Nhớ (311),Jazz,ID_195
+196,Lê Tuấn Tuấn,Gió Lạ (545),Dance,ID_196
+197,Bùi Minh Lan,Gió Say (321),Dance,ID_197
+198,Trương Hữu Cường,Kỷ Niệm Vui (631),Ballad,ID_198
+199,Ngô Bảo Tâm,Biển Say (342),Dance,ID_199
+200,Trần Ngọc Hương,Tình Nhớ (254),Dance,ID_200
+201,Vũ Xuân Trang,Giấc Mơ Xa (668),Dance,ID_201
+202,Đặng Phương Phúc,Mưa Nhớ (826),Pop,ID_202
+203,Phạm Quang Linh,Tình Vui (178),Bolero,ID_203
+204,Trương Bảo Lan,Kỷ Niệm Quên (799),Ballad,ID_204
+205,Lê Khánh Linh,Mây Vui (818),R&B,ID_205
+206,Dương Đức Nam,Kỷ Niệm Xa (403),Dance,ID_206
+207,Đỗ Ngọc Huy,Mây Say (603),Rap,ID_207
+208,Đặng Bảo Sơn,Đường Sầu (501),R&B,ID_208
+209,Dương Bảo Hương,Mây Sầu (483),Indie,ID_209
+210,Nguyễn Bảo Cường,Nắng Vui (183),Rap,ID_210
+211,Vũ Đức Lan,Nắng Nhớ (988),Bolero,ID_211
+212,Dương Ngọc Phúc,Mưa Nhớ (269),Bolero,ID_212
+213,Bùi Phương Linh,Nắng Lạ (330),Ballad,ID_213
+214,Vũ Bảo Tuấn,Kỷ Niệm Đau (866),R&B,ID_214
+215,Phan Hữu Tuấn,Đường Thương (703),Bolero,ID_215
+216,Đỗ Anh Phúc,Hoa Nhớ (282),Lo-fi,ID_216
+217,Lê Đức Mai,Mưa Say (414),Jazz,ID_217
+218,Trương Quang Huy,Nắng Vui (525),Ballad,ID_218
+219,Ngô Hữu Cường,Hoa Mơ (148),R&B,ID_219
+220,Trương Bảo Dũng,Mây Thương (194),Indie,ID_220
+221,Lý Xuân Tuấn,Trăng Thương (452),Dance,ID_221
+222,Vũ Đức Lan,Mưa Đau (374),R&B,ID_222
+223,Hồ Hữu Tuấn,Biển Buồn (624),Bolero,ID_223
+224,Nguyễn Quang Trang,Đường Buồn (214),R&B,ID_224
+225,Ngô Đức Dũng,Trăng Thương (956),R&B,ID_225
+226,Ngô Thị Huy,Kỷ Niệm Lạ (516),Indie,ID_226
+227,Đỗ Hữu Mai,Lời Yêu Vui (652),Jazz,ID_227
+228,Trần Bảo Trang,Hoa Lặng (389),Bolero,ID_228
+229,Đỗ Đức Lan,Trăng Rơi (275),Ballad,ID_229
+230,Trần Thị Sơn,Mưa Đau (919),Pop,ID_230
+231,Lý Ngọc Đông,Hoa Xa (644),Jazz,ID_231
+232,Dương Minh Hà,Mưa Lặng (871),Pop,ID_232
+233,Bùi Minh Tuấn,Trăng Say (203),Lo-fi,ID_233
+234,Hồ Ngọc Hạnh,Mây Buồn (477),R&B,ID_234
+235,Phan Xuân Hương,Kỷ Niệm Thương (100),Rock,ID_235
+236,Bùi Khánh Quân,Phố Xa (655),Pop,ID_236
+237,Bùi Đức Hương,Mây Thương (813),R&B,ID_237
+238,Hồ Khánh Phi,Gió Sầu (682),Lo-fi,ID_238
+239,Đặng Bảo Tâm,Biển Rơi (977),Rock,ID_239
+240,Bùi Phương Hương,Tình Sầu (745),Pop,ID_240
+241,Lê Minh Phúc,Phố Thương (617),Rock,ID_241
+242,Phạm Minh Tuấn,Kỷ Niệm Vui (680),Pop,ID_242
+243,Hoàng Thị Đông,Nắng Vui (445),Indie,ID_243
+244,Đặng Anh Tâm,Đường Nhớ (970),Bolero,ID_244
+245,Trần Thị Dũng,Gió Say (767),Ballad,ID_245
+246,Phan Ngọc Hạnh,Biển Đau (859),Lo-fi,ID_246
+247,Hoàng Anh Đông,Đường Nhớ (922),Rock,ID_247
+248,Hồ Ngọc Trang,Lời Yêu Sầu (637),R&B,ID_248
+249,Vũ Bảo Dũng,Hoa Đau (958),Rap,ID_249
+250,Lý Đức Quân,Gió Mơ (697),Bolero,ID_250
+251,Đặng Tuấn Phi,Nắng Lạ (597),Rock,ID_251
+252,Ngô Đức Linh,Đường Xa (906),Rock,ID_252
+253,Vũ Anh Hà,Kỷ Niệm Lặng (931),Bolero,ID_253
+254,Lý Văn Lan,Giấc Mơ Mơ (213),R&B,ID_254
+255,Nguyễn Quang Lan,Biển Vui (365),Rap,ID_255
+256,Ngô Bảo Tuấn,Trăng Buồn (578),Pop,ID_256
+257,Đặng Thị Phi,Gió Sầu (725),Dance,ID_257
+258,Vũ Hữu Huy,Phố Buồn (109),Pop,ID_258
+259,Lý Khánh Phi,Phố Xa (791),Indie,ID_259
+260,Đặng Đức Mai,Mây Sầu (843),Indie,ID_260
+261,Trần Văn Mai,Kỷ Niệm Nhớ (658),Ballad,ID_261
+262,Nguyễn Phương Hương,Đường Nhớ (148),Rap,ID_262
+263,Lý Phương Quân,Biển Đau (291),Rap,ID_263
+264,Nguyễn Phương Linh,Nắng Rơi (924),Rock,ID_264
+265,Nguyễn Anh Phúc,Gió Thương (208),Indie,ID_265
+266,Trương Ngọc Mai,Gió Sầu (577),Dance,ID_266
+267,Đỗ Hữu Tuấn,Tình Quên (761),Bolero,ID_267
+268,Đặng Văn Cường,Gió Vui (330),R&B,ID_268
+269,Trần Tuấn Cường,Giấc Mơ Mơ (839),R&B,ID_269
+270,Đỗ Đức Sơn,Giấc Mơ Nhớ (520),Lo-fi,ID_270
+271,Trương Khánh Linh,Kỷ Niệm Nhớ (218),Rap,ID_271
+272,Vũ Phương Hương,Hoa Đau (897),Lo-fi,ID_272
+273,Hồ Minh Tuấn,Đường Mơ (354),Lo-fi,ID_273
+274,Dương Văn Lan,Phố Vui (979),Rock,ID_274
+275,Dương Hữu Quân,Trăng Lạ (541),R&B,ID_275
+276,Đỗ Bảo Huy,Biển Rơi (641),Jazz,ID_276
+277,Bùi Thị Tâm,Mây Nhớ (118),Lo-fi,ID_277
+278,Trương Minh Phúc,Lời Yêu Sầu (482),Lo-fi,ID_278
+279,Vũ Khánh Hương,Phố Sầu (317),Pop,ID_279
+280,Hồ Tuấn Tuấn,Phố Xa (121),Indie,ID_280
+281,Ngô Tuấn Cường,Biển Vui (309),Lo-fi,ID_281
+282,Lê Bảo Quân,Phố Vui (341),Jazz,ID_282
+283,Bùi Thị Hà,Gió Rơi (847),Indie,ID_283
+284,Phan Bảo Hà,Hoa Mơ (508),Rap,ID_284
+285,Hoàng Hữu Hạnh,Lời Yêu Đau (672),Indie,ID_285
+286,Trần Khánh Trang,Nắng Lạ (980),Ballad,ID_286
+287,Vũ Phương Hà,Mây Say (898),Lo-fi,ID_287
+288,Trương Thị Lan,Nắng Mơ (488),Pop,ID_288
+289,Hoàng Minh Phúc,Gió Lạ (879),Jazz,ID_289
+290,Nguyễn Ngọc Quân,Trăng Lặng (732),Bolero,ID_290
+291,Lý Tuấn Mai,Mưa Quên (295),Bolero,ID_291
+292,Ngô Hữu Huy,Kỷ Niệm Xa (628),Lo-fi,ID_292
+293,Phạm Khánh Phi,Mây Thương (865),Ballad,ID_293
+294,Lý Minh Dũng,Trăng Rơi (154),Lo-fi,ID_294
+295,Lê Văn Dũng,Đường Nhớ (145),Pop,ID_295
+296,Đỗ Thị Lan,Gió Nhớ (418),Ballad,ID_296
+297,Nguyễn Thị Tâm,Giấc Mơ Rơi (248),Rap,ID_297
+298,Trương Tuấn Phúc,Biển Xa (395),Ballad,ID_298
+299,Nguyễn Minh Linh,Nắng Lặng (684),Indie,ID_299
+300,Ngô Đức Mai,Lời Yêu Buồn (421),Indie,ID_300
+301,Phạm Minh Nam,Hoa Đau (157),Rock,ID_301
+302,Dương Khánh Huy,Trăng Rơi (483),Rock,ID_302
+303,Lê Đức Quân,Hoa Mơ (324),Dance,ID_303
+304,Nguyễn Xuân Đông,Trăng Xa (829),Jazz,ID_304
+305,Vũ Minh Sơn,Giấc Mơ Vui (401),Dance,ID_305
+306,Đặng Thị Quân,Biển Xa (783),Ballad,ID_306
+307,Trương Hữu Phi,Mây Lặng (628),Bolero,ID_307
+308,Đặng Phương Linh,Mưa Quên (644),Rock,ID_308
+309,Lý Khánh Nam,Lời Yêu Say (873),R&B,ID_309
+310,Lê Hữu Hạnh,Lời Yêu Rơi (963),Rock,ID_310
+311,Phạm Ngọc Phúc,Giấc Mơ Mơ (826),Jazz,ID_311
+312,Dương Văn Huy,Tình Nhớ (837),Lo-fi,ID_312
+313,Phạm Đức Dũng,Tình Buồn (893),Dance,ID_313
+314,Đỗ Quang Mai,Gió Nhớ (415),R&B,ID_314
+315,Phạm Ngọc Mai,Giấc Mơ Vui (537),Ballad,ID_315
+316,Trần Hữu Mai,Mưa Thương (302),Ballad,ID_316
+317,Lê Khánh Mai,Lời Yêu Lạ (350),Lo-fi,ID_317
+318,Bùi Phương Sơn,Đường Đau (865),Lo-fi,ID_318
+319,Phạm Ngọc Hương,Nắng Thương (563),Jazz,ID_319
+320,Đặng Tuấn Cường,Trăng Nhớ (430),Ballad,ID_320
+321,Phan Ngọc Sơn,Kỷ Niệm Thương (660),Rap,ID_321
+322,Nguyễn Phương Sơn,Giấc Mơ Nhớ (611),Rock,ID_322
+323,Ngô Xuân Phi,Tình Rơi (513),Ballad,ID_323
+324,Ngô Tuấn Tuấn,Gió Lạ (810),Lo-fi,ID_324
+325,Trương Phương Linh,Biển Quên (740),Indie,ID_325
+326,Lê Tuấn Hương,Đường Xa (840),Bolero,ID_326
+327,Hồ Văn Mai,Biển Quên (891),Jazz,ID_327
+328,Nguyễn Thị Mai,Lời Yêu Vui (633),Ballad,ID_328
+329,Lý Văn Quân,Mưa Đau (497),Bolero,ID_329
+330,Hồ Phương Hương,Phố Nhớ (781),Jazz,ID_330
+331,Bùi Ngọc Hương,Giấc Mơ Xa (566),Jazz,ID_331
+332,Lê Ngọc Lan,Đường Buồn (185),Lo-fi,ID_332
+333,Lý Bảo Dũng,Đường Mơ (926),Indie,ID_333
+334,Hoàng Phương Hà,Hoa Lạ (258),Bolero,ID_334
+335,Lý Tuấn Tâm,Mưa Lặng (318),Indie,ID_335
+336,Phạm Xuân Cường,Biển Mơ (161),Dance,ID_336
+337,Trương Anh Phúc,Lời Yêu Rơi (722),Jazz,ID_337
+338,Lý Khánh Linh,Lời Yêu Sầu (513),Ballad,ID_338
+339,Hồ Văn Nam,Mây Thương (614),Jazz,ID_339
+340,Bùi Đức Tuấn,Mưa Lặng (166),Bolero,ID_340
+341,Hoàng Quang Dũng,Trăng Lặng (395),Bolero,ID_341
+342,Phạm Phương Sơn,Phố Đau (817),Ballad,ID_342
+343,Bùi Đức Phúc,Mây Xa (379),Jazz,ID_343
+344,Phạm Khánh Nam,Mưa Say (247),Jazz,ID_344
+345,Trương Hữu Mai,Giấc Mơ Thương (285),Jazz,ID_345
+346,Phạm Phương Hà,Biển Buồn (393),R&B,ID_346
+347,Dương Văn Mai,Kỷ Niệm Say (709),Ballad,ID_347
+348,Trần Tuấn Dũng,Lời Yêu Sầu (697),Rock,ID_348
+349,Đỗ Tuấn Nam,Nắng Rơi (334),Bolero,ID_349
+350,Hoàng Tuấn Hạnh,Lời Yêu Mơ (881),Dance,ID_350
+351,Hồ Anh Lan,Lời Yêu Xa (793),Pop,ID_351
+352,Dương Xuân Tâm,Gió Nhớ (596),Ballad,ID_352
+353,Dương Đức Sơn,Phố Say (764),Jazz,ID_353
+354,Ngô Minh Cường,Hoa Quên (154),Pop,ID_354
+355,Phan Anh Phúc,Biển Buồn (133),Indie,ID_355
+356,Vũ Ngọc Dũng,Lời Yêu Thương (173),Rock,ID_356
+357,Dương Đức Quân,Kỷ Niệm Lạ (163),Bolero,ID_357
+358,Vũ Xuân Hà,Biển Vui (583),Jazz,ID_358
+359,Trương Anh Huy,Mưa Nhớ (688),Ballad,ID_359
+360,Hoàng Ngọc Linh,Trăng Thương (480),R&B,ID_360
+361,Ngô Hữu Hạnh,Phố Thương (529),Dance,ID_361
+362,Lê Xuân Hà,Kỷ Niệm Thương (522),Rock,ID_362
+363,Đặng Quang Phi,Hoa Sầu (989),Pop,ID_363
+364,Hoàng Ngọc Mai,Lời Yêu Say (870),Lo-fi,ID_364
+365,Trương Khánh Tâm,Giấc Mơ Lặng (386),Jazz,ID_365
+366,Ngô Xuân Tuấn,Trăng Lạ (161),Dance,ID_366
+367,Hồ Quang Lan,Kỷ Niệm Rơi (455),Lo-fi,ID_367
+368,Phạm Minh Linh,Gió Sầu (139),Bolero,ID_368
+369,Ngô Quang Đông,Gió Lạ (623),Rap,ID_369
+370,Hoàng Xuân Linh,Phố Say (762),Rock,ID_370
+371,Vũ Phương Phúc,Đường Vui (602),Indie,ID_371
+372,Ngô Quang Dũng,Kỷ Niệm Thương (714),Rap,ID_372
+373,Dương Bảo Huy,Giấc Mơ Rơi (110),Jazz,ID_373
+374,Dương Đức Sơn,Trăng Vui (850),R&B,ID_374
+375,Ngô Ngọc Nam,Phố Rơi (651),Lo-fi,ID_375
+376,Phạm Bảo Quân,Gió Vui (562),Rap,ID_376
+377,Nguyễn Đức Mai,Hoa Nhớ (964),Pop,ID_377
+378,Trần Quang Phi,Nắng Say (126),Rock,ID_378
+379,Phạm Tuấn Cường,Nắng Rơi (765),Bolero,ID_379
+380,Trương Hữu Hà,Mưa Đau (356),Lo-fi,ID_380
+381,Trần Phương Cường,Mây Say (248),Pop,ID_381
+382,Lê Anh Tuấn,Phố Buồn (400),Rock,ID_382
+383,Vũ Đức Đông,Gió Buồn (577),R&B,ID_383
+384,Ngô Hữu Mai,Gió Xa (824),R&B,ID_384
+385,Phạm Anh Nam,Mưa Vui (793),Indie,ID_385
+386,Dương Thị Hà,Lời Yêu Sầu (946),Jazz,ID_386
+387,Lê Văn Phúc,Biển Quên (574),Rap,ID_387
+388,Phan Văn Linh,Trăng Lặng (891),Dance,ID_388
+389,Lý Quang Tuấn,Nắng Vui (490),Ballad,ID_389
+390,Phạm Hữu Tâm,Lời Yêu Lạ (969),Ballad,ID_390
+391,Nguyễn Ngọc Tuấn,Hoa Sầu (165),R&B,ID_391
+392,Trần Phương Quân,Hoa Sầu (119),Dance,ID_392
+393,Dương Anh Nam,Kỷ Niệm Quên (387),Bolero,ID_393
+394,Đỗ Khánh Đông,Phố Mơ (160),Ballad,ID_394
+395,Đặng Văn Đông,Đường Lặng (655),Dance,ID_395
+396,Phan Bảo Quân,Mưa Rơi (498),Bolero,ID_396
+397,Vũ Phương Tâm,Kỷ Niệm Mơ (562),Dance,ID_397
+398,Đặng Bảo Nam,Giấc Mơ Nhớ (804),Rock,ID_398
+399,Hồ Quang Linh,Giấc Mơ Nhớ (570),Rock,ID_399
+400,Trần Đức Mai,Biển Lạ (923),Pop,ID_400
+401,Lý Ngọc Lan,Biển Sầu (232),R&B,ID_401
+402,Trương Đức Dũng,Giấc Mơ Xa (349),Indie,ID_402
+403,Trương Quang Sơn,Biển Rơi (487),Pop,ID_403
+404,Đặng Tuấn Hạnh,Hoa Lạ (295),R&B,ID_404
+405,Bùi Phương Dũng,Đường Lạ (209),Bolero,ID_405
+406,Đỗ Bảo Nam,Nắng Mơ (950),Rap,ID_406
+407,Hoàng Quang Tâm,Kỷ Niệm Rơi (844),Lo-fi,ID_407
+408,Lý Phương Tuấn,Lời Yêu Rơi (689),Dance,ID_408
+409,Đặng Văn Quân,Gió Vui (239),Pop,ID_409
+410,Lê Quang Nam,Tình Sầu (971),Rock,ID_410
+411,Nguyễn Khánh Linh,Lời Yêu Say (846),R&B,ID_411
+412,Đỗ Tuấn Linh,Lời Yêu Lạ (122),Jazz,ID_412
+413,Đặng Anh Hà,Trăng Thương (381),Lo-fi,ID_413
+414,Đặng Thị Mai,Gió Thương (616),Rap,ID_414
+415,Đặng Tuấn Hạnh,Gió Rơi (768),Lo-fi,ID_415
+416,Trương Quang Hà,Phố Lạ (812),Pop,ID_416
+417,Trương Ngọc Mai,Mây Vui (983),Jazz,ID_417
+418,Phạm Bảo Huy,Nắng Say (543),Pop,ID_418
+419,Đỗ Khánh Phi,Lời Yêu Mơ (807),Lo-fi,ID_419
+420,Bùi Khánh Đông,Giấc Mơ Thương (565),Lo-fi,ID_420
+421,Phan Xuân Hương,Mây Buồn (969),Dance,ID_421
+422,Vũ Đức Cường,Tình Quên (255),Rock,ID_422
+423,Vũ Tuấn Tuấn,Gió Vui (524),R&B,ID_423
+424,Vũ Anh Dũng,Mây Quên (672),Pop,ID_424
+425,Bùi Phương Lan,Phố Lạ (204),Jazz,ID_425
+426,Trương Phương Hà,Đường Sầu (345),Dance,ID_426
+427,Lý Khánh Mai,Nắng Đau (792),Jazz,ID_427
+428,Vũ Quang Linh,Mây Lạ (715),Indie,ID_428
+429,Nguyễn Bảo Lan,Hoa Lặng (859),Indie,ID_429
+430,Bùi Xuân Cường,Mây Buồn (922),Indie,ID_430
+431,Lê Khánh Phúc,Đường Quên (349),Indie,ID_431
+432,Đặng Khánh Hà,Tình Say (592),Rap,ID_432
+433,Vũ Anh Huy,Mưa Đau (312),Rap,ID_433
+434,Trần Tuấn Đông,Đường Mơ (544),Rap,ID_434
+435,Ngô Văn Tâm,Nắng Lạ (421),Rap,ID_435
+436,Dương Bảo Hà,Lời Yêu Quên (481),Bolero,ID_436
+437,Bùi Đức Hạnh,Hoa Vui (195),Indie,ID_437
+438,Hồ Xuân Tuấn,Biển Buồn (867),Rock,ID_438
+439,Phạm Minh Hà,Trăng Nhớ (222),Rap,ID_439
+440,Trần Đức Mai,Mây Lạ (627),Lo-fi,ID_440
+441,Vũ Thị Lan,Kỷ Niệm Mơ (567),R&B,ID_441
+442,Hoàng Quang Hà,Tình Rơi (631),Bolero,ID_442
+443,Trần Quang Đông,Mây Say (742),Jazz,ID_443
+444,Trần Minh Cường,Giấc Mơ Buồn (294),Bolero,ID_444
+445,Đỗ Xuân Sơn,Mưa Nhớ (828),Indie,ID_445
+446,Dương Phương Nam,Đường Đau (872),Rap,ID_446
+447,Hồ Bảo Lan,Nắng Sầu (423),Bolero,ID_447
+448,Hoàng Văn Dũng,Trăng Lặng (306),Bolero,ID_448
+449,Đặng Xuân Hạnh,Đường Rơi (499),Pop,ID_449
+450,Phan Bảo Quân,Phố Sầu (622),Rock,ID_450
+451,Trương Bảo Hà,Đường Lạ (934),Indie,ID_451
+452,Hoàng Xuân Hương,Hoa Thương (940),Indie,ID_452
+453,Hoàng Khánh Dũng,Giấc Mơ Vui (297),Dance,ID_453
+454,Hoàng Đức Mai,Đường Rơi (126),Rock,ID_454
+455,Hồ Ngọc Mai,Đường Lặng (861),Indie,ID_455
+456,Hoàng Bảo Lan,Hoa Thương (510),Rock,ID_456
+457,Bùi Ngọc Cường,Mây Xa (772),Ballad,ID_457
+458,Đỗ Ngọc Hương,Mây Sầu (256),Jazz,ID_458
+459,Bùi Quang Tâm,Gió Rơi (897),Bolero,ID_459
+460,Vũ Ngọc Trang,Mưa Rơi (278),R&B,ID_460
+461,Dương Phương Tuấn,Giấc Mơ Đau (574),Lo-fi,ID_461
+462,Trương Văn Quân,Biển Rơi (442),R&B,ID_462
+463,Phan Quang Phi,Trăng Thương (637),Rock,ID_463
+464,Đỗ Khánh Nam,Mưa Mơ (311),Lo-fi,ID_464
+465,Đặng Đức Lan,Hoa Sầu (508),Ballad,ID_465
+466,Phan Ngọc Lan,Nắng Lặng (322),Bolero,ID_466
+467,Phan Bảo Hạnh,Tình Say (299),R&B,ID_467
+468,Lê Khánh Linh,Biển Sầu (273),R&B,ID_468
+469,Lý Xuân Đông,Phố Lạ (804),Ballad,ID_469
+470,Bùi Anh Quân,Tình Vui (356),Bolero,ID_470
+471,Lê Đức Mai,Biển Quên (136),Jazz,ID_471
+472,Vũ Văn Hạnh,Mây Buồn (286),Lo-fi,ID_472
+473,Đỗ Xuân Hà,Nắng Lặng (722),Lo-fi,ID_473
+474,Dương Văn Tâm,Mưa Xa (605),Pop,ID_474
+475,Phạm Đức Linh,Lời Yêu Đau (956),Jazz,ID_475
+476,Trần Minh Phi,Phố Buồn (521),Pop,ID_476
+477,Trần Xuân Mai,Gió Thương (841),R&B,ID_477
+478,Đặng Văn Tâm,Lời Yêu Thương (367),Dance,ID_478
+479,Phạm Hữu Hương,Kỷ Niệm Quên (545),Bolero,ID_479
+480,Phạm Tuấn Phi,Nắng Lặng (858),Dance,ID_480
+481,Ngô Minh Hà,Phố Sầu (931),Lo-fi,ID_481
+482,Trần Xuân Đông,Phố Đau (299),Lo-fi,ID_482
+483,Hồ Bảo Tâm,Mây Lạ (188),Rap,ID_483
+484,Đặng Bảo Trang,Biển Buồn (903),R&B,ID_484
+485,Lý Anh Lan,Hoa Quên (867),Pop,ID_485
+486,Phan Xuân Tâm,Phố Lạ (660),Rock,ID_486
+487,Lê Thị Huy,Nắng Mơ (571),Jazz,ID_487
+488,Lê Khánh Phi,Mây Nhớ (701),Rap,ID_488
+489,Vũ Phương Hà,Phố Đau (493),Rock,ID_489
+490,Phạm Tuấn Phúc,Tình Quên (972),R&B,ID_490
+491,Trần Đức Linh,Đường Xa (130),Indie,ID_491
+492,Hồ Hữu Hà,Gió Buồn (647),Dance,ID_492
+493,Lý Anh Linh,Hoa Say (198),Rap,ID_493
+494,Nguyễn Đức Hạnh,Hoa Thương (146),Lo-fi,ID_494
+495,Lý Ngọc Cường,Trăng Nhớ (809),Indie,ID_495
+496,Lý Minh Trang,Giấc Mơ Quên (573),Dance,ID_496
+497,Trần Khánh Lan,Hoa Thương (687),Ballad,ID_497
+498,Hồ Xuân Phi,Phố Vui (637),Ballad,ID_498
+499,Vũ Quang Đông,Lời Yêu Đau (538),Pop,ID_499
+500,Bùi Ngọc Tuấn,Nắng Xa (794),Ballad,ID_500
+501,Dương Ngọc Trang,Kỷ Niệm Rơi (836),Bolero,ID_501
+502,Lê Quang Linh,Tình Quên (293),Jazz,ID_502
+503,Ngô Thị Đông,Đường Sầu (982),Ballad,ID_503
+504,Ngô Hữu Nam,Biển Vui (420),Jazz,ID_504
+505,Dương Anh Huy,Biển Quên (367),R&B,ID_505
+506,Bùi Tuấn Dũng,Biển Rơi (407),R&B,ID_506
+507,Hoàng Thị Phi,Trăng Thương (742),Jazz,ID_507
+508,Hoàng Thị Linh,Hoa Buồn (492),Bolero,ID_508
+509,Dương Quang Mai,Gió Quên (324),R&B,ID_509
+510,Hồ Phương Phúc,Biển Thương (520),R&B,ID_510
+511,Vũ Xuân Hạnh,Phố Lạ (718),R&B,ID_511
+512,Lý Minh Hà,Trăng Rơi (961),Pop,ID_512
+513,Dương Hữu Hương,Hoa Thương (580),Jazz,ID_513
+514,Bùi Khánh Nam,Lời Yêu Đau (374),Bolero,ID_514
+515,Đỗ Bảo Hương,Đường Buồn (224),Ballad,ID_515
+516,Hồ Thị Hương,Kỷ Niệm Xa (450),Bolero,ID_516
+517,Lê Quang Phi,Hoa Lặng (792),Ballad,ID_517
+518,Vũ Phương Dũng,Trăng Xa (321),Lo-fi,ID_518
+519,Lê Hữu Phi,Mây Xa (644),Ballad,ID_519
+520,Hồ Minh Quân,Giấc Mơ Lặng (291),Jazz,ID_520
+521,Bùi Bảo Quân,Biển Rơi (725),Rap,ID_521
+522,Trần Khánh Dũng,Mưa Thương (435),R&B,ID_522
+523,Đỗ Xuân Tuấn,Mưa Xa (469),Rock,ID_523
+524,Bùi Anh Dũng,Nắng Mơ (294),Rock,ID_524
+525,Phan Bảo Huy,Lời Yêu Thương (535),R&B,ID_525
+526,Hồ Bảo Tuấn,Đường Rơi (116),Jazz,ID_526
+527,Ngô Quang Sơn,Mây Say (844),Bolero,ID_527
+528,Trần Quang Tuấn,Lời Yêu Xa (315),Lo-fi,ID_528
+529,Ngô Bảo Đông,Phố Xa (833),Rock,ID_529
+530,Dương Thị Hà,Tình Vui (544),Rock,ID_530
+531,Đặng Ngọc Dũng,Nắng Sầu (249),Bolero,ID_531
+532,Hồ Ngọc Nam,Mưa Đau (410),Rock,ID_532
+533,Hoàng Minh Hà,Nắng Say (413),Ballad,ID_533
+534,Phạm Tuấn Tâm,Lời Yêu Sầu (703),Pop,ID_534
+535,Phạm Minh Hà,Phố Say (783),R&B,ID_535
+536,Phạm Bảo Dũng,Đường Lạ (224),Indie,ID_536
+537,Đặng Quang Nam,Trăng Rơi (427),Ballad,ID_537
+538,Đặng Đức Nam,Giấc Mơ Sầu (912),Indie,ID_538
+539,Đỗ Tuấn Mai,Hoa Sầu (644),Indie,ID_539
+540,Lê Quang Trang,Giấc Mơ Xa (211),Jazz,ID_540
+541,Phan Khánh Phúc,Mây Rơi (837),Jazz,ID_541
+542,Đỗ Ngọc Mai,Lời Yêu Lặng (420),Lo-fi,ID_542
+543,Phạm Tuấn Phúc,Nắng Sầu (832),Lo-fi,ID_543
+544,Phan Văn Lan,Nắng Sầu (454),Ballad,ID_544
+545,Lê Ngọc Hạnh,Trăng Lặng (501),Jazz,ID_545
+546,Lý Anh Huy,Trăng Lặng (677),Jazz,ID_546
+547,Lý Tuấn Sơn,Kỷ Niệm Say (351),Rock,ID_547
+548,Phạm Minh Lan,Phố Mơ (320),Dance,ID_548
+549,Lý Đức Mai,Trăng Lạ (525),Bolero,ID_549
+550,Đỗ Ngọc Dũng,Kỷ Niệm Say (355),Pop,ID_550
+551,Lê Văn Mai,Mưa Thương (357),Lo-fi,ID_551
+552,Ngô Hữu Phi,Kỷ Niệm Say (817),Bolero,ID_552
+553,Ngô Quang Dũng,Đường Vui (142),Pop,ID_553
+554,Vũ Bảo Huy,Tình Đau (933),Rock,ID_554
+555,Hồ Tuấn Quân,Đường Vui (263),Indie,ID_555
+556,Trương Ngọc Quân,Giấc Mơ Nhớ (567),Bolero,ID_556
+557,Hoàng Văn Tâm,Lời Yêu Lạ (397),Pop,ID_557
+558,Vũ Văn Lan,Đường Say (687),Indie,ID_558
+559,Vũ Xuân Hương,Lời Yêu Mơ (978),Lo-fi,ID_559
+560,Dương Quang Tâm,Mây Sầu (310),Pop,ID_560
+561,Đặng Đức Sơn,Mây Buồn (309),Dance,ID_561
+562,Phan Minh Phúc,Đường Vui (747),Rock,ID_562
+563,Vũ Thị Tâm,Gió Quên (415),R&B,ID_563
+564,Phạm Ngọc Sơn,Kỷ Niệm Vui (124),R&B,ID_564
+565,Vũ Minh Phúc,Trăng Sầu (824),Indie,ID_565
+566,Bùi Phương Nam,Kỷ Niệm Lặng (831),Dance,ID_566
+567,Đỗ Ngọc Lan,Kỷ Niệm Mơ (435),Lo-fi,ID_567
+568,Nguyễn Thị Đông,Biển Sầu (289),Dance,ID_568
+569,Lê Hữu Mai,Tình Mơ (639),Pop,ID_569
+570,Đặng Anh Hương,Tình Nhớ (548),Ballad,ID_570
+571,Nguyễn Hữu Nam,Trăng Buồn (840),Rock,ID_571
+572,Hồ Ngọc Hương,Phố Lặng (152),Rap,ID_572
+573,Vũ Đức Mai,Mưa Lạ (250),Dance,ID_573
+574,Lê Tuấn Đông,Đường Buồn (380),Lo-fi,ID_574
+575,Lý Hữu Tuấn,Lời Yêu Lặng (354),R&B,ID_575
+576,Lý Hữu Nam,Tình Quên (246),Pop,ID_576
+577,Lê Thị Hạnh,Lời Yêu Mơ (813),Rap,ID_577
+578,Nguyễn Xuân Trang,Nắng Thương (717),Lo-fi,ID_578
+579,Trần Quang Linh,Đường Nhớ (197),Rap,ID_579
+580,Lý Minh Lan,Nắng Nhớ (828),Rap,ID_580
+581,Phạm Ngọc Tuấn,Tình Thương (512),R&B,ID_581
+582,Phan Tuấn Phúc,Mưa Nhớ (404),Lo-fi,ID_582
+583,Hồ Anh Trang,Hoa Buồn (489),Lo-fi,ID_583
+584,Lý Tuấn Dũng,Mây Đau (116),Indie,ID_584
+585,Phạm Bảo Mai,Gió Buồn (841),Ballad,ID_585
+586,Trương Quang Phúc,Trăng Rơi (174),Rap,ID_586
+587,Trương Xuân Quân,Hoa Xa (176),Pop,ID_587
+588,Đỗ Hữu Tâm,Biển Say (744),Pop,ID_588
+589,Hồ Xuân Tâm,Đường Quên (677),Pop,ID_589
+590,Phan Bảo Dũng,Phố Thương (955),Ballad,ID_590
+591,Vũ Văn Phúc,Gió Thương (218),Indie,ID_591
+592,Lý Hữu Tuấn,Trăng Lạ (688),Jazz,ID_592
+593,Vũ Ngọc Nam,Lời Yêu Mơ (723),Dance,ID_593
+594,Hoàng Văn Tuấn,Mưa Lặng (811),Jazz,ID_594
+595,Phan Minh Quân,Mưa Sầu (527),Lo-fi,ID_595
+596,Trần Xuân Huy,Phố Quên (159),Rock,ID_596
+597,Phạm Tuấn Cường,Đường Buồn (574),Bolero,ID_597
+598,Hoàng Văn Tâm,Tình Xa (369),Jazz,ID_598
+599,Đỗ Tuấn Trang,Đường Vui (195),Indie,ID_599
+600,Ngô Xuân Dũng,Mưa Sầu (919),Rap,ID_600

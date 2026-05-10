@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Music AI - Hệ thống gợi ý âm nhạc</title>
+    <title> Hệ thống gợi ý âm nhạc</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="style.css">
 </head>
@@ -12,10 +12,16 @@
         <div class="container flex-between">
             <div class="logo">
                 <i class="fa-solid fa-headphones"></i>
-                <b>Music AI</b>
+                <b>Music</b>
             </div>
             <div class="search-bar">
+                <i class="fa-solid fa-magnifying-glass search-icon"></i>
                 <input type="text" id="searchInput" placeholder="Tìm bài hát hoặc nghệ sĩ...">
+                <button class="search-clear" id="clearSearch" onclick="document.getElementById('searchInput').value='';this.style.display='none'">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+                <span class="search-divider"></span>
+                <button class="search-submit"><i class="fa-solid fa-arrow-right"></i></button>
             </div>
             <div class="user-info">
             <div class="user-select-wrapper">

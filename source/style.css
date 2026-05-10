@@ -76,11 +76,136 @@
     background: var(--primary); 
     color: #fff; 
 }
-.inp { flex: 1; 
-    padding: 12px; 
-    border: 1px solid #ddd; 
-    border-radius: 8px; 
-    outline: none; 
+.inp { 
+    flex: 1; 
+    padding: 12px 16px; 
+    border: 1.5px solid #eee; 
+    border-radius: 10px; 
+    outline: none;
+    font-family: inherit;
+    font-size: 14px;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+.inp:focus {
+    border-color: var(--primary);
+    box-shadow: 0 0 0 3px rgba(63,81,181,0.1);
+}
+
+/* ===== Header Search Bar ===== */
+.search-bar {
+    display: flex;
+    align-items: center;
+    background: #f5f5f7;
+    border: 2px solid transparent;
+    border-radius: 40px;
+    padding: 6px 6px 6px 18px;
+    gap: 8px;
+    transition: all 0.3s cubic-bezier(.4,0,.2,1);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+    width: 340px;
+    position: relative;
+}
+
+.search-bar:focus-within {
+    background: #fff;
+    border-color: var(--red);
+    box-shadow: 0 4px 20px rgba(200,30,30,0.15);
+    width: 380px;
+}
+
+.search-bar .search-icon {
+    color: #bbb;
+    font-size: 14px;
+    flex-shrink: 0;
+    transition: color 0.3s;
+}
+
+.search-bar:focus-within .search-icon {
+    color: var(--red);
+}
+
+.search-bar input {
+    border: none;
+    background: transparent;
+    outline: none;
+    font-size: 14px;
+    color: #222;
+    width: 100%;
+    font-family: inherit;
+    letter-spacing: 0.01em;
+}
+
+.search-bar input::placeholder {
+    color: #bbb;
+}
+
+.search-clear {
+    background: none;
+    border: none;
+    color: #bbb;
+    cursor: pointer;
+    font-size: 13px;
+    padding: 2px 4px;
+    display: none;
+    transition: color 0.2s;
+    flex-shrink: 0;
+}
+
+.search-clear:hover { color: #888; }
+
+.search-bar input:not(:placeholder-shown) ~ .search-clear {
+    display: inline-flex;
+}
+
+.search-divider {
+    width: 1px;
+    height: 20px;
+    background: #ddd;
+    flex-shrink: 0;
+}
+
+.search-submit {
+    background: linear-gradient(135deg, var(--red), #e53935);
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 34px;
+    height: 34px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 13px;
+    flex-shrink: 0;
+    transition: transform 0.2s, box-shadow 0.2s;
+    box-shadow: 0 2px 8px rgba(200,30,30,0.3);
+}
+
+.search-submit:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 14px rgba(200,30,30,0.45);
+}
+
+.search-submit:active {
+    transform: scale(0.95);
+}
+
+/* Logo đẹp hơn */
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 20px;
+    color: var(--red);
+    letter-spacing: -0.5px;
+}
+.logo i {
+    font-size: 22px;
+}
+.logo b {
+    font-size: 18px;
+    color: #111;
+    font-weight: 700;
 }
 
 /* Music Components */
@@ -94,17 +219,90 @@
     padding: 15px; 
     border-radius: 12px; 
     box-shadow: 0 2px 8px rgba(0,0,0,0.05); 
-    position: relative; 
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    overflow: visible;
+}
+
+.song:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
+
+.song-thumb {
+    width: 100%;
+    height: 80px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 14px;
+    box-sizing: border-box;
+    color: #fff;
+    position: relative;
+}
+
+.thumb-char {
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.thumb-index {
+    font-size: 13px;
+    font-weight: 600;
+    background: rgba(0,0,0,0.2);
+    padding: 3px 8px;
+    border-radius: 20px;
+    position: absolute;
+    bottom: 8px;
+    right: 10px;
+}
+
+.song-info {
+    margin-top: 12px;
+    text-align: center;
+}
+
+.song-title {
+    font-weight: 700;
+    font-size: 14px;
+    color: #111;
+    margin-bottom: 4px;
+}
+
+.song-artist {
+    font-size: 12px;
+    color: #888;
+    margin-bottom: 6px;
+}
+
+.song-genre {
+    display: inline-block;
+    font-size: 11px;
+    color: var(--red);
+    background: rgba(200,30,30,0.08);
+    padding: 2px 10px;
+    border-radius: 20px;
+    font-weight: 600;
 }
 .badge { 
     position: absolute; 
-    top: 10px; 
-    right: 10px; 
+    top: -8px; 
+    right: -8px; 
     background: #27ae60; 
     color: #fff; 
-    padding: 2px 8px; 
-    border-radius: 10px; 
-    font-size: 11px; 
+    padding: 3px 9px; 
+    border-radius: 20px; 
+    font-size: 11px;
+    font-weight: 600;
+    z-index: 2;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
 }
 
 .predict { 
@@ -311,4 +509,76 @@
     object-fit: cover;
     border: 2px solid #fff;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* ===== Load More Button ===== */
+.load-more-wrap {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin: 24px 0 10px;
+}
+
+.load-more-btn {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: #fff;
+    border: 2px solid var(--red);
+    color: var(--red);
+    padding: 10px 28px;
+    border-radius: 30px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.25s ease;
+    font-family: inherit;
+}
+
+.load-more-btn:hover {
+    background: var(--red);
+    color: #fff;
+    box-shadow: 0 4px 14px rgba(200,30,30,0.25);
+    transform: translateY(-2px);
+}
+
+.load-more-btn i {
+    font-size: 12px;
+    transition: transform 0.3s;
+}
+
+.load-more-btn:hover i {
+    transform: translateY(3px);
+}
+
+.collapse-btn {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: #f5f5f5;
+    border: 2px solid #ddd;
+    color: #666;
+    padding: 10px 28px;
+    border-radius: 30px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.25s ease;
+    font-family: inherit;
+}
+
+.collapse-btn:hover {
+    background: #eee;
+    border-color: #bbb;
+    color: #333;
+    transform: translateY(-2px);
+}
+
+.collapse-btn i {
+    font-size: 12px;
+    transition: transform 0.3s;
+}
+
+.collapse-btn:hover i {
+    transform: translateY(-3px);
 }

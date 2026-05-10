@@ -1,4 +1,7 @@
 let allSongs = [];
+let currentData = [];
+let currentPage = 1;
+const PAGE_SIZE = 10;
 const apiBase = "http://127.0.0.1:8000";
 
 //  Chức năng 1
@@ -14,6 +17,8 @@ async function init() {
 
 document.getElementById('userSelect').onchange = (e) => {
     const selectedId = e.target.value;
+    currentPage = 1;
+    currentData = [];
     
     const predictRes = document.getElementById('predictResult');
     if(predictRes) predictRes.innerHTML = ''; 
@@ -50,15 +55,15 @@ function filterByGenre(genre) {
         else btn.classList.remove('active');
     });
 
-    let filteredData = [];
     if (genre === 'All') {
-        filteredData = allSongs; 
+        currentData = allSongs; 
     } else {
-        filteredData = allSongs.filter(s => s.genre === genre); 
+        currentData = allSongs.filter(s => s.genre === genre); 
     }
 
+    currentPage = 1;
     document.getElementById('viewTitle').innerText = genre === 'All' ? "Tất cả bài hát" : `Thể loại: ${genre}`;
-    render(filteredData.slice(0, 10));
+    renderPage();
 }
 
 document.getElementById('btnExplore').onclick = () => {
@@ -67,24 +72,98 @@ document.getElementById('btnExplore').onclick = () => {
 };
 
 
-function render(data) {
+function renderPage() {
     const grid = document.getElementById('musicGrid');
     if (!grid) return;
 
-    grid.innerHTML = data.map(s => {
+    const start = 0;
+    const end = currentPage * PAGE_SIZE;
+    const visibleData = currentData.slice(start, end);
+    const hasMore = end < currentData.length;
+
+    grid.innerHTML = visibleData.map((s, index) => {
         const char = s.song_title ? s.song_title[0] : '?';
         const color = ["#3498db", "#e74c3c", "#9b59b6", "#f1c40f", "#1abc9c"][s.artistID % 5];
         
         return `
             <div class="song" onclick="showDetail(${s.artistID})">
                 ${s.predicted_rating ? `<div class="badge">${s.predicted_rating} ⭐</div>` : ''}
-                <div class="song-thumb" style="background: ${color}; color: white;">${char}</div>
-                <div style="font-weight:600; margin-top:10px">${s.song_title}</div>
-                <div style="font-size:13px; color:#666">${s.name}</div>
-                <div style="font-size:11px; color:#c81e1e; margin-top:5px">${s.genre}</div>
+                <div class="song-thumb" style="background: ${color};">
+                    <span class="thumb-char">${char}</span>
+                    <span class="thumb-index">#${index + 1}</span>
+                </div>
+                <div class="song-info">
+                    <div class="song-title">${s.song_title}</div>
+                    <div class="song-artist">${s.name}</div>
+                    <div class="song-genre">${s.genre}</div>
+                </div>
             </div>
         `;
     }).join('');
+
+    // Xóa nút cũ nếu có
+    const oldBtn = document.getElementById('loadMoreBtn');
+    if (oldBtn) oldBtn.remove();
+
+    const btn = document.createElement('div');
+    btn.id = 'loadMoreBtn';
+    btn.className = 'load-more-wrap';
+
+    if (hasMore && currentPage === 1) {
+        // Chỉ có nút Xem thêm
+        btn.innerHTML = `
+            <button class="load-more-btn" onclick="loadMore()">
+                <span>Xem thêm ${Math.min(PAGE_SIZE, currentData.length - end)} bài</span>
+                <i class="fa-solid fa-chevron-down"></i>
+            </button>
+        `;
+    } else if (hasMore && currentPage > 1) {
+        // Có cả Xem thêm lẫn Thu gọn
+        btn.innerHTML = `
+            <button class="load-more-btn" onclick="loadMore()">
+                <span>Xem thêm ${Math.min(PAGE_SIZE, currentData.length - end)} bài</span>
+                <i class="fa-solid fa-chevron-down"></i>
+            </button>
+            <button class="collapse-btn" onclick="collapseGrid()">
+                <span>Thu gọn</span>
+                <i class="fa-solid fa-chevron-up"></i>
+            </button>
+        `;
+    } else if (!hasMore && currentPage > 1) {
+        // Hết bài, chỉ có Thu gọn
+        btn.innerHTML = `
+            <button class="collapse-btn" onclick="collapseGrid()">
+                <span>Thu gọn</span>
+                <i class="fa-solid fa-chevron-up"></i>
+            </button>
+        `;
+    }
+
+    if (btn.innerHTML) grid.after(btn);
+}
+
+function render(data) {
+    currentData = data;
+    currentPage = 1;
+    renderPage();
+}
+
+function loadMore() {
+    currentPage++;
+    renderPage();
+    // Scroll nhẹ xuống để thấy bài mới
+    const grid = document.getElementById('musicGrid');
+    const newStart = (currentPage - 1) * PAGE_SIZE;
+    const cards = grid.querySelectorAll('.song');
+    if (cards[newStart]) {
+        cards[newStart].scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+}
+
+function collapseGrid() {
+    currentPage = 1;
+    renderPage();
+    document.getElementById('musicGrid').scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
 document.getElementById('btnExplore').onclick = () => {

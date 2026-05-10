@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music AI - Hệ thống gợi ý âm nhạc</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container flex-between">
+            <div class="logo">
+                <i class="fa-solid fa-headphones"></i>
+                <b>Music AI</b>
+            </div>
+            <div class="search-bar">
+                <input type="text" id="searchInput" placeholder="Tìm bài hát hoặc nghệ sĩ...">
+            </div>
+            <div class="user-info">
+            <div class="user-select-wrapper">
+                <select id="userSelect" class="user-dropdown">
+                    <optgroup label="Nhóm Người dùng Demo">
+                        <option value="1" selected>VHT</option>
+                        <option value="2">DDQT</option>
+                        <option value="3">NVL</option>
+                        <option value="4">NTH</option>
+                    </optgroup>
+                </select>
+            </div>
+            <img src="https://www.robins.vn/wp-content/uploads/2026/01/hinh-anh-con-meo-cute-1.jpg.jpg" class="avatar" id="userAvatar">
+        </div>
+    </header>
+
+    <nav class="nav">
+        <div class="container flex-gap">
+            <a href="#" class="active"><i class="fa-solid fa-house"></i> Trang chủ</a>
+            <a href="#"><i class="fa-solid fa-compact-disc"></i> Danh mục</a>
+            <a href="#" id="btnTopN"><i class="fa-solid fa-star"></i> Gợi ý cho tôi</a>
+        </div>
+    </nav>
+
+    <div class="banner container">
+        <div class="hero-box">
+            <h1>Khám phá âm nhạc </h1>
+            <p>Hệ thống gợi ý bài hát thông minh cho riêng bạn.</p>
+            <div class="flex-gap">
+                <button id="btnExplore" class="btn btn-light">Khám phá ngay</button>
+                <button class="btn btn-outline">Xem gợi ý</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="predict container">
+        <h3></h3>
+        <div class="row-gap">
+            <input type="text" id="predictInput" class="inp" placeholder="Nhập tên bài hát (VD: Biển Xa)...">
+            <button id="btnPredict" class="btn btn-blue">Kiểm tra</button>
+        </div>
+        <div id="predictResult"></div>
+    </div>
+
+    <main class="container">
+        <h2 id="viewTitle" class="title">Khám phá bài hát</h2>
+        <div class="filter-box flex-gap flex-center" style="margin-bottom: 30px;">
+            <button class="btn-tag active" onclick="filterByGenre('All')">Tất cả</button>
+            <button class="btn-tag" onclick="filterByGenre('Pop')">Pop</button>
+            <button class="btn-tag" onclick="filterByGenre('Lo-fi')">Lo-fi</button>
+            <button class="btn-tag" onclick="filterByGenre('Rock')">Rock</button>
+            <button class="btn-tag" onclick="filterByGenre('R&B')">R&B</button>
+            <button class="btn-tag" onclick="filterByGenre('Rap')">Rap</button>
+            <button class="btn-tag" onclick="filterByGenre('Indie')">Indie</button>
+        </div>
+        <div id="musicGrid" class="grid-music"></div>
+    </main>
+
+    <div id="detailModal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <div id="modalBody">
+                </div>
+        </div>
+    </div>
+
+    <footer class="foot">
+        <div class="container flex-between">
+            <div class="f-box">
+                <h2 class="red">Music</h2>
+                <p>Hệ thống gợi ý âm nhạc thông minh</p>
+            </div>
+
+            <div class="f-box">
+                <h4>Công nghệ</h4>
+                <ul>
+                    <li>FastAPI & Python (Backend)</li>
+                    <li>Surprise KNN (Machine Learning)</li>
+                    <li>HTML/CSS/JS (Frontend)</li>
+                </ul>
+            </div>
+
+            <div class="f-box text-right">
+                <h4>Nhóm thực hiện</h4>
+                <p><b>Nhóm 2</b></p>
+                <p>Ngành: Công nghệ thông tin</p>
+                <p>Trường đại học Mỏ - Địa chất </p>
+            </div>
+        </div>
+        
+        <div class="f-line">
+            <p> Music</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

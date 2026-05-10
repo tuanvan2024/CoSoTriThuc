@@ -1,0 +1,314 @@
+:root {
+    --primary: #3f51b5;
+    --red: #c81e1e;
+    --gray: #f4f7f9;
+}
+
+/* Base Classes */
+.container { 
+    max-width: 1100px; 
+    margin: 0 auto; 
+    padding: 0 15px; 
+}
+.flex-between { 
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between; 
+}
+.flex-gap { 
+    display: flex; 
+    gap: 20px; 
+}
+.row-gap { 
+    display: flex; 
+    gap: 10px; 
+    margin: 15px 0; 
+}
+
+/* Header & Nav */
+.header { background: #fff; 
+    padding: 10px 0; 
+    border-bottom: 1px solid #eee; }
+.nav { 
+    background: #fff; 
+    padding: 15px 0; 
+    border-bottom: 1px solid #ddd; 
+}
+.nav a { 
+    text-decoration: none; 
+    color: #555; 
+    font-weight: 500; 
+    font-size: 14px; 
+}
+.nav a.active { 
+    color: var(--primary); 
+    border-bottom: 2px solid var(--primary); 
+}
+
+/* Banner */
+.banner { 
+    margin: 30px auto; 
+}
+.hero-box { 
+    background: linear-gradient(135deg, var(--red), #801212); 
+    padding: 50px; 
+    border-radius: 15px; color: #fff; 
+}
+
+/* Components */
+.btn { 
+    border: none; 
+    padding: 12px 24px; 
+    border-radius: 8px; 
+    font-weight: 600; 
+    cursor: pointer; 
+}
+.btn-light { 
+    background: #fff; 
+    color: var(--red); 
+}
+.btn-outline { 
+    background: transparent; 
+    border: 1px solid #fff; 
+    color: #fff; 
+}
+.btn-blue { 
+    background: var(--primary); 
+    color: #fff; 
+}
+.inp { flex: 1; 
+    padding: 12px; 
+    border: 1px solid #ddd; 
+    border-radius: 8px; 
+    outline: none; 
+}
+
+/* Music Components */
+.grid-music { 
+    display: grid; 
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); 
+    gap: 20px; 
+}
+.song { 
+    background: #fff; 
+    padding: 15px; 
+    border-radius: 12px; 
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05); 
+    position: relative; 
+}
+.badge { 
+    position: absolute; 
+    top: 10px; 
+    right: 10px; 
+    background: #27ae60; 
+    color: #fff; 
+    padding: 2px 8px; 
+    border-radius: 10px; 
+    font-size: 11px; 
+}
+
+.predict { 
+    background: #fff; 
+    padding: 20px; 
+    border-radius: 12px; 
+    border: 1px solid #eee; 
+    margin-bottom: 30px; 
+}
+
+
+/* footer */
+.foot {
+    background: #1a1a1a; /* Màu đen đậm chuyên nghiệp */
+    color: #fff;
+    padding: 60px 0 20px;
+    margin-top: 80px;
+    border-top: 5px solid var(--red); /* Dải đỏ tạo điểm nhấn */
+}
+
+.f-box {
+    flex: 1;
+    min-width: 250px;
+}
+
+.f-box h2 { 
+    margin-bottom: 15px; 
+    font-size: 24px; 
+}
+.f-box h4 { color: var(--red); 
+    margin-bottom: 20px; 
+    text-transform: uppercase; 
+    font-size: 15px; 
+}
+.f-box p { 
+    color: #aaa; 
+    font-size: 14px; 
+    line-height: 1.6; 
+}
+.f-box ul { 
+    list-style: none; 
+    padding: 0; 
+}
+.f-box li { 
+    color: #aaa; 
+    font-size: 14px; 
+    margin-bottom: 10px; 
+}
+
+.text-right { text-align: right; }
+
+.f-line {
+    text-align: center;
+    border-top: 1px solid #333;
+    margin-top: 40px;
+    padding-top: 20px;
+    color: #666;
+    font-size: 13px;
+}
+
+
+@media (max-width: 768px) {
+    .foot .flex-between { 
+        flex-direction: column; 
+        text-align: center;
+        gap: 30px; }
+    .text-right { text-align: center; 
+    }
+}
+
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0; top: 0;
+    width: 100%; height: 100%;
+    background: rgba(0,0,0,0.5);
+    overflow-y: auto;
+}
+.modal-content {
+    background: #fff;
+    margin: 5% auto;
+    padding: 30px;
+    border-radius: 15px;
+    max-width: 700px;
+    position: relative;
+}
+.close-modal {
+    position: absolute;
+    top: 15px; right: 20px;
+    font-size: 24px;
+    cursor: pointer;
+    color: #999;
+}
+.close-modal:hover { color: #333; }
+
+.modal-content .grid-music {
+    display: flex !important;
+    justify-content: center !important;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+/* css cho nút bấm chuyển đổi */
+.flex-center { justify-content: center; }
+
+.btn-tag {
+    padding: 8px 20px;
+    border: 1px solid #ddd;
+    background: #fff;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+.btn-tag:hover, .btn-tag.active {
+    background: var(--red);
+    color: #fff;
+    border-color: var(--red);
+}
+
+.filter-box {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+
+/* css tai khoan */
+.user-select-wrapper {
+    display: flex;
+    align-items: center;
+    background: #f0f2f5;
+    padding: 5px 15px;
+    border-radius: 20px;
+    border: 1px solid #ddd;
+    transition: 0.3s;
+}
+
+.user-select-wrapper:hover {
+    border-color: var(--primary);
+    background: #fff;
+}
+
+.user-select-wrapper i {
+    color: var(--primary);
+    margin-right: 8px;
+}
+
+/* Tùy chỉnh Dropdown */
+.user-dropdown {
+    border: none;
+    background: transparent;
+    font-weight: 600;
+    font-size: 13px;
+    color: #333;
+    outline: none;
+    cursor: pointer;
+    padding: 5px 0;
+    max-height: 200px;
+}
+
+/* Style cho các option bên trong */
+.user-dropdown option {
+    padding: 10px;
+    background: #fff;
+    color: #333;
+}
+
+/* Avatar nhỏ gọn */
+.avatar {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* can chinh user va tai khoan */
+.user-info {
+    display: flex;          
+    flex-direction: row;    
+    align-items: center;    
+    gap: 15px;              
+    justify-content: flex-end;
+}
+
+
+#userSelect {
+    padding: 5px 10px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    font-family: inherit;
+    cursor: pointer;
+}
+
+
+.avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
